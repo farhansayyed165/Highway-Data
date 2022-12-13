@@ -1,0 +1,719 @@
+,States/UTs,Number of Accidents,Persons Killed,People Injured,Traffic Voilation type,Year
+1,Arunachal Pradesh,31.0,17.0,20,OverSpeeding,2017
+8,Himachal Pradesh,628.0,256.0,1054,OverSpeeding,2017
+15,Manipur,156.0,42.0,280,OverSpeeding,2017
+16,Meghalaya,65.0,17.0,33,OverSpeeding,2017
+17,Mizoram,16.0,12.0,8,OverSpeeding,2017
+18,Nagaland,170.0,15.0,124,OverSpeeding,2017
+22,Sikkim,79.0,48.0,192,OverSpeeding,2017
+25,Tripura,432.0,132.0,631,OverSpeeding,2017
+29,A & N Islands,133.0,15.0,208,OverSpeeding,2017
+30,Chandigarh,325.0,102.0,291,OverSpeeding,2017
+31,D & N Haveli,43.0,25.0,26,OverSpeeding,2017
+32,Daman & Diu,61.0,30.0,48,OverSpeeding,2017
+34,Lakshadweep,0.0,0.0,0,OverSpeeding,2017
+35,Puducherry,654.0,75.0,694,OverSpeeding,2017
+37,Arunachal Pradesh,19.0,13.0,21,Drunken Driving,2017
+38,Assam,373.0,142.0,353,Drunken Driving,2017
+39,Bihar,0.0,0.0,0,Drunken Driving,2017
+40,Chhattisgarh,86.0,17.0,119,Drunken Driving,2017
+41,Goa,10.0,0.0,7,Drunken Driving,2017
+42,Gujarat,65.0,18.0,91,Drunken Driving,2017
+43,Haryana,180.0,86.0,168,Drunken Driving,2017
+44,Himachal Pradesh,214.0,89.0,457,Drunken Driving,2017
+45,Jammu & Kashmir,1.0,0.0,1,Drunken Driving,2017
+46,Jharkhand,801.0,430.0,512,Drunken Driving,2017
+47,Karnataka,169.0,23.0,212,Drunken Driving,2017
+48,Kerala,133.0,7.0,178,Drunken Driving,2017
+49,Madhya Pradesh,1049.0,217.0,1221,Drunken Driving,2017
+50,Maharashtra,863.0,293.0,830,Drunken Driving,2017
+51,Manipur,44.0,9.0,71,Drunken Driving,2017
+52,Meghalaya,132.0,89.0,53,Drunken Driving,2017
+53,Mizoram,16.0,13.0,21,Drunken Driving,2017
+54,Nagaland,157.0,3.0,120,Drunken Driving,2017
+56,Punjab,129.0,95.0,70,Drunken Driving,2017
+57,Rajasthan,421.0,142.0,349,Drunken Driving,2017
+58,Sikkim,32.0,5.0,44,Drunken Driving,2017
+60,Telangana,163.0,34.0,118,Drunken Driving,2017
+61,Tripura,11.0,2.0,17,Drunken Driving,2017
+62,Uttarakhand,56.0,30.0,36,Drunken Driving,2017
+64,West Bengal,16.0,2.0,13,Drunken Driving,2017
+65,A & N Islands,13.0,2.0,12,Drunken Driving,2017
+66,Chandigarh,10.0,3.0,3,Drunken Driving,2017
+67,D & N Haveli,1.0,4.0,5,Drunken Driving,2017
+68,Daman & Diu,12.0,3.0,17,Drunken Driving,2017
+69,Delhi,124.0,24.0,126,Drunken Driving,2017
+70,Lakshadweep,0.0,0.0,0,Drunken Driving,2017
+71,Puducherry,5.0,0.0,9,Drunken Driving,2017
+73,Arunachal Pradesh,41.0,16.0,70,Driving On wrong side,2017
+74,Assam,579.0,212.0,481,Driving On wrong side,2017
+77,Goa,88.0,10.0,38,Driving On wrong side,2017
+78,Gujarat,951.0,377.0,1037,Driving On wrong side,2017
+79,Haryana,432.0,185.0,451,Driving On wrong side,2017
+81,Jammu & Kashmir,65.0,11.0,71,Driving On wrong side,2017
+82,Jharkhand,379.0,218.0,301,Driving On wrong side,2017
+87,Manipur,56.0,5.0,89,Driving On wrong side,2017
+88,Meghalaya,151.0,32.0,89,Driving On wrong side,2017
+89,Mizoram,3.0,2.0,2,Driving On wrong side,2017
+90,Nagaland,36.0,2.0,8,Driving On wrong side,2017
+91,Orissa,842.0,368.0,984,Driving On wrong side,2017
+92,Punjab,602.0,387.0,485,Driving On wrong side,2017
+94,Sikkim,11.0,3.0,26,Driving On wrong side,2017
+96,Telangana,263.0,67.0,305,Driving On wrong side,2017
+97,Tripura,47.0,20.0,50,Driving On wrong side,2017
+98,Uttarakhand,109.0,43.0,98,Driving On wrong side,2017
+100,West Bengal,278.0,121.0,317,Driving On wrong side,2017
+101,A & N Islands,18.0,1.0,19,Driving On wrong side,2017
+102,Chandigarh,2.0,1.0,4,Driving On wrong side,2017
+103,D & N Haveli,3.0,1.0,2,Driving On wrong side,2017
+104,Daman & Diu,4.0,2.0,2,Driving On wrong side,2017
+105,Delhi,308.0,51.0,301,Driving On wrong side,2017
+106,Lakshadweep,0.0,0.0,0,Driving On wrong side,2017
+107,Puducherry,140.0,30.0,154,Driving On wrong side,2017
+108,Andhra Pradesh,194.0,104.0,195,Jumping red Lights,2017
+109,Arunachal Pradesh,0.0,0.0,0,Jumping red Lights,2017
+110,Assam,98.0,27.0,78,Jumping red Lights,2017
+111,Bihar,318.0,184.0,139,Jumping red Lights,2017
+112,Chhattisgarh,372.0,60.0,362,Jumping red Lights,2017
+113,Goa,4.0,0.0,1,Jumping red Lights,2017
+114,Gujarat,46.0,21.0,45,Jumping red Lights,2017
+115,Haryana,147.0,53.0,134,Jumping red Lights,2017
+116,Himachal Pradesh,0.0,0.0,0,Jumping red Lights,2017
+117,Jammu & Kashmir,0.0,0.0,0,Jumping red Lights,2017
+118,Jharkhand,169.0,120.0,101,Jumping red Lights,2017
+119,Karnataka,105.0,11.0,124,Jumping red Lights,2017
+120,Kerala,406.0,23.0,412,Jumping red Lights,2017
+121,Madhya Pradesh,277.0,62.0,264,Jumping red Lights,2017
+122,Maharashtra,119.0,40.0,95,Jumping red Lights,2017
+123,Manipur,0.0,0.0,0,Jumping red Lights,2017
+124,Meghalaya,104.0,7.0,63,Jumping red Lights,2017
+125,Mizoram,0.0,0.0,0,Jumping red Lights,2017
+126,Nagaland,0.0,0.0,0,Jumping red Lights,2017
+127,Orissa,174.0,62.0,144,Jumping red Lights,2017
+128,Punjab,84.0,67.0,97,Jumping red Lights,2017
+129,Rajasthan,15.0,3.0,9,Jumping red Lights,2017
+130,Sikkim,0.0,0.0,0,Jumping red Lights,2017
+132,Telangana,0.0,0.0,0,Jumping red Lights,2017
+133,Tripura,0.0,0.0,0,Jumping red Lights,2017
+134,Uttarakhand,14.0,4.0,15,Jumping red Lights,2017
+135,Uttar Pradesh,912.0,444.0,800,Jumping red Lights,2017
+136,West Bengal,122.0,68.0,128,Jumping red Lights,2017
+137,A & N Islands,0.0,0.0,0,Jumping red Lights,2017
+138,Chandigarh,4.0,1.0,3,Jumping red Lights,2017
+139,D & N Haveli,0.0,0.0,0,Jumping red Lights,2017
+140,Daman & Diu,0.0,0.0,0,Jumping red Lights,2017
+141,Delhi,255.0,60.0,250,Jumping red Lights,2017
+142,Lakshadweep,0.0,0.0,0,Jumping red Lights,2017
+143,Puducherry,4.0,0.0,3,Jumping red Lights,2017
+144,Andhra Pradesh,108.0,51.0,109,Use of Mobile Phones,2017
+145,Arunachal Pradesh,0.0,0.0,0,Use of Mobile Phones,2017
+146,Assam,200.0,74.0,199,Use of Mobile Phones,2017
+147,Bihar,408.0,217.0,254,Use of Mobile Phones,2017
+148,Chhattisgarh,127.0,28.0,203,Use of Mobile Phones,2017
+149,Goa,0.0,0.0,0,Use of Mobile Phones,2017
+150,Gujarat,169.0,59.0,155,Use of Mobile Phones,2017
+151,Haryana,89.0,40.0,90,Use of Mobile Phones,2017
+152,Himachal Pradesh,19.0,8.0,41,Use of Mobile Phones,2017
+153,Jammu & Kashmir,1.0,0.0,0,Use of Mobile Phones,2017
+154,Jharkhand,226.0,77.0,180,Use of Mobile Phones,2017
+155,Karnataka,97.0,31.0,206,Use of Mobile Phones,2017
+156,Kerala,1.0,0.0,1,Use of Mobile Phones,2017
+157,Madhya Pradesh,717.0,114.0,1012,Use of Mobile Phones,2017
+158,Maharashtra,745.0,282.0,535,Use of Mobile Phones,2017
+159,Manipur,53.0,6.0,86,Use of Mobile Phones,2017
+160,Meghalaya,99.0,21.0,42,Use of Mobile Phones,2017
+161,Mizoram,0.0,0.0,0,Use of Mobile Phones,2017
+162,Nagaland,23.0,0.0,0,Use of Mobile Phones,2017
+163,Orissa,691.0,257.0,776,Use of Mobile Phones,2017
+164,Punjab,86.0,52.0,93,Use of Mobile Phones,2017
+165,Rajasthan,24.0,6.0,28,Use of Mobile Phones,2017
+166,Sikkim,1.0,1.0,1,Use of Mobile Phones,2017
+168,Telangana,85.0,35.0,85,Use of Mobile Phones,2017
+169,Tripura,0.0,0.0,0,Use of Mobile Phones,2017
+170,Uttarakhand,41.0,22.0,39,Use of Mobile Phones,2017
+172,West Bengal,67.0,33.0,62,Use of Mobile Phones,2017
+173,A & N Islands,0.0,0.0,0,Use of Mobile Phones,2017
+174,Chandigarh,1.0,0.0,1,Use of Mobile Phones,2017
+175,D & N Haveli,0.0,0.0,0,Use of Mobile Phones,2017
+176,Daman & Diu,1.0,1.0,1,Use of Mobile Phones,2017
+177,Delhi,39.0,3.0,40,Use of Mobile Phones,2017
+178,Lakshadweep,0.0,0.0,0,Use of Mobile Phones,2017
+179,Puducherry,0.0,0.0,0,Use of Mobile Phones,2017
+181,Arunachal Pradesh,135.0,79.0,122,OverSpeeding,2018
+195,Manipur,90.0,21.0,159,OverSpeeding,2018
+196,Meghalaya,64.0,43.0,20,OverSpeeding,2018
+197,Mizoram,18.0,14.0,11,OverSpeeding,2018
+198,Nagaland,199.0,15.0,135,OverSpeeding,2018
+202,Sikkim,71.0,33.0,44,OverSpeeding,2018
+205,Tripura,426.0,163.0,551,OverSpeeding,2018
+206,Uttarakhand,900.0,569.0,878,OverSpeeding,2018
+209,A & N Islands,148.0,7.0,186,OverSpeeding,2018
+210,Chandigarh,280.0,93.0,267,OverSpeeding,2018
+211,D & N Haveli,78.0,51.0,65,OverSpeeding,2018
+212,Daman & Diu,57.0,29.0,68,OverSpeeding,2018
+214,Lakshadweep,1.0,1.0,1,OverSpeeding,2018
+215,Puducherry,734.0,110.0,823,OverSpeeding,2018
+217,Arunachal Pradesh,55.0,41.0,83,Drunken Driving,2018
+218,Assam,377.0,130.0,355,Drunken Driving,2018
+219,Bihar,10.0,3.0,18,Drunken Driving,2018
+220,Chhattisgarh,216.0,55.0,179,Drunken Driving,2018
+221,Goa,9.0,4.0,2,Drunken Driving,2018
+222,Gujarat,106.0,15.0,118,Drunken Driving,2018
+223,Haryana,474.0,251.0,543,Drunken Driving,2018
+224,Himachal Pradesh,322.0,70.0,498,Drunken Driving,2018
+225,Jammu & Kashmir,20.0,5.0,27,Drunken Driving,2018
+226,Jharkhand,517.0,328.0,321,Drunken Driving,2018
+227,Karnataka,139.0,22.0,164,Drunken Driving,2018
+228,Kerala,157.0,25.0,169,Drunken Driving,2018
+229,Madhya Pradesh,893.0,145.0,888,Drunken Driving,2018
+230,Maharashtra,188.0,42.0,197,Drunken Driving,2018
+231,Manipur,74.0,17.0,115,Drunken Driving,2018
+232,Meghalaya,117.0,66.0,49,Drunken Driving,2018
+233,Mizoram,16.0,13.0,15,Drunken Driving,2018
+234,Nagaland,83.0,0.0,61,Drunken Driving,2018
+236,Punjab,112.0,85.0,62,Drunken Driving,2018
+237,Rajasthan,146.0,52.0,129,Drunken Driving,2018
+238,Sikkim,2.0,2.0,0,Drunken Driving,2018
+240,Telangana,182.0,24.0,194,Drunken Driving,2018
+241,Tripura,28.0,8.0,47,Drunken Driving,2018
+242,Uttarakhand,20.0,16.0,42,Drunken Driving,2018
+244,West Bengal,79.0,6.0,60,Drunken Driving,2018
+245,A & N Islands,20.0,0.0,19,Drunken Driving,2018
+246,Chandigarh,12.0,0.0,7,Drunken Driving,2018
+247,D & N Haveli,1.0,0.0,0,Drunken Driving,2018
+248,Daman & Diu,8.0,0.0,16,Drunken Driving,2018
+249,Delhi,333.0,72.0,292,Drunken Driving,2018
+250,Lakshadweep,0.0,0.0,0,Drunken Driving,2018
+251,Puducherry,14.0,2.0,22,Drunken Driving,2018
+252,Andhra Pradesh,740.0,192.0,847,Driving On wrong side,2018
+253,Arunachal Pradesh,8.0,6.0,6,Driving On wrong side,2018
+256,Chhattisgarh,740.0,252.0,620,Driving On wrong side,2018
+257,Goa,90.0,4.0,44,Driving On wrong side,2018
+258,Gujarat,959.0,352.0,925,Driving On wrong side,2018
+259,Haryana,1055.0,533.0,1036,Driving On wrong side,2018
+260,Himachal Pradesh,270.0,60.0,461,Driving On wrong side,2018
+261,Jammu & Kashmir,13.0,4.0,23,Driving On wrong side,2018
+262,Jharkhand,401.0,299.0,269,Driving On wrong side,2018
+267,Manipur,24.0,6.0,67,Driving On wrong side,2018
+268,Meghalaya,49.0,11.0,33,Driving On wrong side,2018
+269,Mizoram,5.0,3.0,10,Driving On wrong side,2018
+270,Nagaland,72.0,8.0,55,Driving On wrong side,2018
+271,Orissa,1002.0,374.0,1198,Driving On wrong side,2018
+272,Punjab,1055.0,759.0,678,Driving On wrong side,2018
+273,Rajasthan,196.0,72.0,172,Driving On wrong side,2018
+274,Sikkim,12.0,4.0,11,Driving On wrong side,2018
+276,Telangana,200.0,32.0,206,Driving On wrong side,2018
+277,Tripura,48.0,18.0,81,Driving On wrong side,2018
+278,Uttarakhand,173.0,105.0,167,Driving On wrong side,2018
+280,West Bengal,194.0,101.0,233,Driving On wrong side,2018
+281,A & N Islands,16.0,1.0,11,Driving On wrong side,2018
+282,Chandigarh,1.0,0.0,3,Driving On wrong side,2018
+283,D & N Haveli,1.0,3.0,1,Driving On wrong side,2018
+284,Daman & Diu,11.0,6.0,10,Driving On wrong side,2018
+285,Delhi,460.0,69.0,483,Driving On wrong side,2018
+286,Lakshadweep,2.0,0.0,2,Driving On wrong side,2018
+287,Puducherry,435.0,73.0,116,Driving On wrong side,2018
+288,Andhra Pradesh,48.0,1.0,49,Jumping red Lights,2018
+289,Arunachal Pradesh,0.0,0.0,0,Jumping red Lights,2018
+290,Assam,159.0,62.0,149,Jumping red Lights,2018
+291,Bihar,130.0,79.0,99,Jumping red Lights,2018
+292,Chhattisgarh,37.0,3.0,28,Jumping red Lights,2018
+293,Goa,1.0,0.0,2,Jumping red Lights,2018
+294,Gujarat,181.0,53.0,192,Jumping red Lights,2018
+295,Haryana,512.0,218.0,578,Jumping red Lights,2018
+296,Himachal Pradesh,0.0,0.0,0,Jumping red Lights,2018
+297,Jammu & Kashmir,26.0,4.0,44,Jumping red Lights,2018
+298,Jharkhand,47.0,31.0,34,Jumping red Lights,2018
+299,Karnataka,69.0,4.0,61,Jumping red Lights,2018
+300,Kerala,105.0,8.0,113,Jumping red Lights,2018
+301,Madhya Pradesh,99.0,8.0,78,Jumping red Lights,2018
+302,Maharashtra,98.0,16.0,94,Jumping red Lights,2018
+303,Manipur,10.0,2.0,21,Jumping red Lights,2018
+304,Meghalaya,8.0,6.0,3,Jumping red Lights,2018
+305,Mizoram,0.0,0.0,0,Jumping red Lights,2018
+306,Nagaland,0.0,0.0,0,Jumping red Lights,2018
+307,Orissa,218.0,88.0,187,Jumping red Lights,2018
+308,Punjab,240.0,161.0,117,Jumping red Lights,2018
+309,Rajasthan,12.0,6.0,11,Jumping red Lights,2018
+310,Sikkim,0.0,0.0,0,Jumping red Lights,2018
+311,Tamil Nadu,939.0,290.0,999,Jumping red Lights,2018
+312,Telangana,54.0,10.0,49,Jumping red Lights,2018
+313,Tripura,0.0,0.0,0,Jumping red Lights,2018
+314,Uttarakhand,2.0,1.0,11,Jumping red Lights,2018
+315,Uttar Pradesh,679.0,284.0,560,Jumping red Lights,2018
+316,West Bengal,53.0,26.0,43,Jumping red Lights,2018
+317,A & N Islands,0.0,0.0,0,Jumping red Lights,2018
+318,Chandigarh,10.0,1.0,13,Jumping red Lights,2018
+319,D & N Haveli,0.0,0.0,0,Jumping red Lights,2018
+320,Daman & Diu,0.0,0.0,0,Jumping red Lights,2018
+321,Delhi,658.0,176.0,583,Jumping red Lights,2018
+322,Lakshadweep,0.0,0.0,0,Jumping red Lights,2018
+323,Puducherry,46.0,7.0,18,Jumping red Lights,2018
+324,Andhra Pradesh,82.0,7.0,70,Use of Mobile Phones,2018
+325,Arunachal Pradesh,51.0,32.0,64,Use of Mobile Phones,2018
+326,Assam,112.0,22.0,108,Use of Mobile Phones,2018
+327,Bihar,103.0,61.0,95,Use of Mobile Phones,2018
+328,Chhattisgarh,58.0,12.0,64,Use of Mobile Phones,2018
+329,Goa,0.0,0.0,0,Use of Mobile Phones,2018
+330,Gujarat,460.0,187.0,444,Use of Mobile Phones,2018
+331,Haryana,474.0,269.0,474,Use of Mobile Phones,2018
+332,Himachal Pradesh,0.0,0.0,0,Use of Mobile Phones,2018
+333,Jammu & Kashmir,4.0,0.0,8,Use of Mobile Phones,2018
+334,Jharkhand,310.0,206.0,130,Use of Mobile Phones,2018
+335,Karnataka,173.0,44.0,125,Use of Mobile Phones,2018
+336,Kerala,26.0,4.0,24,Use of Mobile Phones,2018
+337,Madhya Pradesh,465.0,61.0,496,Use of Mobile Phones,2018
+338,Maharashtra,187.0,55.0,216,Use of Mobile Phones,2018
+339,Manipur,29.0,2.0,45,Use of Mobile Phones,2018
+340,Meghalaya,14.0,8.0,5,Use of Mobile Phones,2018
+341,Mizoram,0.0,0.0,0,Use of Mobile Phones,2018
+342,Nagaland,0.0,0.0,0,Use of Mobile Phones,2018
+343,Orissa,611.0,260.0,647,Use of Mobile Phones,2018
+344,Punjab,252.0,158.0,134,Use of Mobile Phones,2018
+345,Rajasthan,39.0,18.0,67,Use of Mobile Phones,2018
+346,Sikkim,4.0,3.0,3,Use of Mobile Phones,2018
+348,Telangana,17.0,3.0,26,Use of Mobile Phones,2018
+349,Tripura,0.0,0.0,0,Use of Mobile Phones,2018
+350,Uttarakhand,0.0,0.0,0,Use of Mobile Phones,2018
+352,West Bengal,19.0,50.0,26,Use of Mobile Phones,2018
+353,11,0.0,0.0,0,Use of Mobile Phones,2018
+354,Chandigarh,0.0,0.0,0,Use of Mobile Phones,2018
+355,D & N Haveli,0.0,0.0,0,Use of Mobile Phones,2018
+356,Daman & Diu,0.0,0.0,0,Use of Mobile Phones,2018
+357,Delhi,244.0,37.0,225,Use of Mobile Phones,2018
+358,Lakshadweep,0.0,0.0,0,Use of Mobile Phones,2018
+359,Puducherry,0.0,0.0,0,Use of Mobile Phones,2018
+361,Arunachal Pradesh,76.0,41.0,89,OverSpeeding,2019
+375,Manipur,378.0,97.0,597,OverSpeeding,2019
+376,Meghalaya,172.0,61.0,82,OverSpeeding,2019
+377,Mizoram,32.0,27.0,31,OverSpeeding,2019
+378,Nagaland,131.0,12.0,113,OverSpeeding,2019
+382,Sikkim,77.0,32.0,97,OverSpeeding,2019
+385,Tripura,588.0,209.0,735,OverSpeeding,2019
+386,Uttarakhand,983.0,591.0,932,OverSpeeding,2019
+389,A & N Islands,40.0,3.0,38,OverSpeeding,2019
+390,Chandigarh,282.0,99.0,259,OverSpeeding,2019
+391,D & N Haveli,67.0,49.0,105,OverSpeeding,2019
+392,Daman & Diu,61.0,27.0,66,OverSpeeding,2019
+394,Lakshadweep,0.0,0.0,0,OverSpeeding,2019
+395,Puducherry,908.0,121.0,1018,OverSpeeding,2019
+396,Andhra Pradesh,127.0,43.0,144,Drunken Driving,2019
+397,Arunachal Pradesh,46.0,27.0,70,Drunken Driving,2019
+398,Assam,279.0,74.0,306,Drunken Driving,2019
+399,Bihar,0.0,0.0,0,Drunken Driving,2019
+400,Chhattisgarh,134.0,34.0,112,Drunken Driving,2019
+401,Goa,6.0,1.0,0,Drunken Driving,2019
+402,Gujarat,47.0,17.0,34,Drunken Driving,2019
+403,Haryana,299.0,132.0,280,Drunken Driving,2019
+404,Himachal Pradesh,75.0,24.0,106,Drunken Driving,2019
+405,Jammu & Kashmir,25.0,5.0,44,Drunken Driving,2019
+406,Jharkhand,686.0,578.0,382,Drunken Driving,2019
+407,Karnataka,132.0,37.0,166,Drunken Driving,2019
+408,Kerala,104.0,20.0,103,Drunken Driving,2019
+409,Madhya Pradesh,1030.0,241.0,1039,Drunken Driving,2019
+410,Maharashtra,258.0,53.0,280,Drunken Driving,2019
+411,Manipur,81.0,12.0,146,Drunken Driving,2019
+412,Meghalaya,23.0,4.0,15,Drunken Driving,2019
+413,Mizoram,17.0,12.0,10,Drunken Driving,2019
+414,Nagaland,132.0,7.0,89,Drunken Driving,2019
+415,Orissa,1068.0,507.0,998,Drunken Driving,2019
+417,Rajasthan,262.0,83.0,313,Drunken Driving,2019
+418,Sikkim,19.0,7.0,19,Drunken Driving,2019
+419,Tamil Nadu,1047.0,157.0,1246,Drunken Driving,2019
+420,Telangana,246.0,68.0,215,Drunken Driving,2019
+421,Tripura,19.0,3.0,29,Drunken Driving,2019
+422,Uttarakhand,25.0,17.0,24,Drunken Driving,2019
+424,West Bengal,8.0,3.0,6,Drunken Driving,2019
+425,A & N Islands,41.0,1.0,36,Drunken Driving,2019
+426,Chandigarh,8.0,0.0,8,Drunken Driving,2019
+427,D & N Haveli,1.0,0.0,0,Drunken Driving,2019
+428,Daman & Diu,4.0,0.0,4,Drunken Driving,2019
+429,Delhi,215.0,45.0,202,Drunken Driving,2019
+430,Lakshadweep,0.0,0.0,0,Drunken Driving,2019
+431,Puducherry,6.0,0.0,9,Drunken Driving,2019
+432,Andhra Pradesh,509.0,155.0,638,Driving On wrong side,2019
+433,Arunachal Pradesh,57.0,28.0,77,Driving On wrong side,2019
+434,Assam,929.0,363.0,625,Driving On wrong side,2019
+436,Chhattisgarh,760.0,197.0,786,Driving On wrong side,2019
+437,Goa,100.0,19.0,122,Driving On wrong side,2019
+438,Gujarat,607.0,225.0,712,Driving On wrong side,2019
+439,Haryana,959.0,418.0,1022,Driving On wrong side,2019
+440,Himachal Pradesh,715.0,341.0,1531,Driving On wrong side,2019
+441,Jammu & Kashmir,72.0,11.0,87,Driving On wrong side,2019
+442,Jharkhand,343.0,234.0,279,Driving On wrong side,2019
+446,Maharashtra,553.0,154.0,571,Driving On wrong side,2019
+447,Manipur,23.0,7.0,33,Driving On wrong side,2019
+448,Meghalaya,26.0,13.0,12,Driving On wrong side,2019
+449,Mizoram,5.0,5.0,2,Driving On wrong side,2019
+450,Nagaland,82.0,7.0,37,Driving On wrong side,2019
+451,Orissa,1040.0,445.0,1235,Driving On wrong side,2019
+454,Sikkim,19.0,3.0,61,Driving On wrong side,2019
+456,Telangana,119.0,23.0,140,Driving On wrong side,2019
+457,Tripura,28.0,15.0,37,Driving On wrong side,2019
+458,Uttarakhand,102.0,52.0,107,Driving On wrong side,2019
+460,West Bengal,114.0,44.0,158,Driving On wrong side,2019
+461,A & N Islands,6.0,0.0,8,Driving On wrong side,2019
+462,Chandigarh,3.0,1.0,2,Driving On wrong side,2019
+463,D & N Haveli,0.0,0.0,0,Driving On wrong side,2019
+464,Daman & Diu,2.0,1.0,1,Driving On wrong side,2019
+465,Delhi,369.0,69.0,459,Driving On wrong side,2019
+466,Lakshadweep,0.0,0.0,0,Driving On wrong side,2019
+467,Puducherry,132.0,19.0,171,Driving On wrong side,2019
+468,Andhra Pradesh,37.0,22.0,24,Jumping red Lights,2019
+469,Arunachal Pradesh,0.0,0.0,0,Jumping red Lights,2019
+470,Assam,136.0,29.0,128,Jumping red Lights,2019
+471,Bihar,0.0,0.0,0,Jumping red Lights,2019
+472,Chhattisgarh,22.0,2.0,18,Jumping red Lights,2019
+473,Goa,0.0,0.0,0,Jumping red Lights,2019
+474,Gujarat,8.0,4.0,4,Jumping red Lights,2019
+475,Haryana,257.0,142.0,397,Jumping red Lights,2019
+476,Himachal Pradesh,0.0,0.0,0,Jumping red Lights,2019
+477,Jammu & Kashmir,0.0,0.0,0,Jumping red Lights,2019
+478,Jharkhand,74.0,33.0,107,Jumping red Lights,2019
+479,Karnataka,59.0,7.0,60,Jumping red Lights,2019
+480,Kerala,70.0,5.0,86,Jumping red Lights,2019
+481,Madhya Pradesh,113.0,12.0,118,Jumping red Lights,2019
+482,Maharashtra,48.0,4.0,46,Jumping red Lights,2019
+483,Manipur,8.0,0.0,15,Jumping red Lights,2019
+484,Meghalaya,11.0,7.0,3,Jumping red Lights,2019
+485,Mizoram,0.0,0.0,0,Jumping red Lights,2019
+486,Nagaland,0.0,0.0,0,Jumping red Lights,2019
+487,Orissa,97.0,32.0,100,Jumping red Lights,2019
+489,Rajasthan,32.0,13.0,35,Jumping red Lights,2019
+490,Sikkim,0.0,0.0,0,Jumping red Lights,2019
+491,Tamil Nadu,1068.0,226.0,1054,Jumping red Lights,2019
+492,Telangana,32.0,2.0,19,Jumping red Lights,2019
+493,Tripura,0.0,0.0,0,Jumping red Lights,2019
+494,Uttarakhand,0.0,0.0,0,Jumping red Lights,2019
+495,Uttar Pradesh,874.0,297.0,680,Jumping red Lights,2019
+496,West Bengal,18.0,10.0,15,Jumping red Lights,2019
+497,A & N Islands,0.0,0.0,0,Jumping red Lights,2019
+498,Chandigarh,12.0,4.0,6,Jumping red Lights,2019
+499,D & N Haveli,0.0,0.0,0,Jumping red Lights,2019
+500,Daman & Diu,0.0,0.0,0,Jumping red Lights,2019
+501,Delhi,371.0,100.0,320,Jumping red Lights,2019
+502,Lakshadweep,0.0,0.0,0,Jumping red Lights,2019
+503,Puducherry,17.0,0.0,25,Jumping red Lights,2019
+504,Andhra Pradesh,96.0,29.0,134,Use of Mobile Phones,2019
+505,Arunachal Pradesh,43.0,23.0,67,Use of Mobile Phones,2019
+506,Assam,99.0,40.0,99,Use of Mobile Phones,2019
+507,Bihar,182.0,149.0,130,Use of Mobile Phones,2019
+508,Chhattisgarh,24.0,9.0,10,Use of Mobile Phones,2019
+509,Goa,0.0,0.0,0,Use of Mobile Phones,2019
+510,Gujarat,122.0,40.0,118,Use of Mobile Phones,2019
+511,Haryana,539.0,243.0,418,Use of Mobile Phones,2019
+512,Himachal Pradesh,18.0,3.0,27,Use of Mobile Phones,2019
+513,Jammu & Kashmir,0.0,0.0,0,Use of Mobile Phones,2019
+514,Jharkhand,128.0,80.0,107,Use of Mobile Phones,2019
+515,Karnataka,31.0,2.0,50,Use of Mobile Phones,2019
+516,Kerala,27.0,0.0,28,Use of Mobile Phones,2019
+517,Madhya Pradesh,896.0,181.0,972,Use of Mobile Phones,2019
+518,Maharashtra,100.0,13.0,100,Use of Mobile Phones,2019
+519,Manipur,37.0,2.0,66,Use of Mobile Phones,2019
+520,Meghalaya,19.0,10.0,8,Use of Mobile Phones,2019
+521,Mizoram,0.0,0.0,0,Use of Mobile Phones,2019
+522,Nagaland,13.0,0.0,7,Use of Mobile Phones,2019
+523,Orissa,492.0,205.0,561,Use of Mobile Phones,2019
+525,Rajasthan,158.0,63.0,217,Use of Mobile Phones,2019
+526,Sikkim,0.0,0.0,0,Use of Mobile Phones,2019
+527,Tamil Nadu,1047.0,165.0,1233,Use of Mobile Phones,2019
+528,Telangana,7.0,1.0,6,Use of Mobile Phones,2019
+529,Tripura,0.0,0.0,0,Use of Mobile Phones,2019
+530,Uttarakhand,51.0,50.0,98,Use of Mobile Phones,2019
+532,West Bengal,14.0,4.0,13,Use of Mobile Phones,2019
+533,A & N Islands,0.0,0.0,0,Use of Mobile Phones,2019
+534,Chandigarh,0.0,0.0,0,Use of Mobile Phones,2019
+535,D & N Haveli,0.0,0.0,0,Use of Mobile Phones,2019
+536,Daman & Diu,2.0,0.0,3,Use of Mobile Phones,2019
+537,Delhi,199.0,53.0,173,Use of Mobile Phones,2019
+538,Lakshadweep,0.0,0.0,0,Use of Mobile Phones,2019
+539,Puducherry,0.0,0.0,0,Use of Mobile Phones,2019
+541,Arunachal Pradesh,64.0,42.0,94,OverSpeeding,2020
+555,Manipur,265.0,60.0,399,OverSpeeding,2020
+556,Meghalaya,113.0,77.0,113,OverSpeeding,2020
+557,Mizoram,22.0,14.0,31,OverSpeeding,2020
+558,Nagaland,156.0,20.0,66,OverSpeeding,2020
+562,Sikkim,62.0,18.0,98,OverSpeeding,2020
+565,Tripura,429.0,181.0,426,OverSpeeding,2020
+566,Uttarakhand,710.0,450.0,523,OverSpeeding,2020
+569,A & N Islands,26.0,2.0,31,OverSpeeding,2020
+570,Chandigarh,147.0,50.0,139,OverSpeeding,2020
+571,D & N Haveli,84.0,58.0,104,OverSpeeding,2020
+574,Lakshadweep,1.0,0.0,1,OverSpeeding,2020
+575,Puducherry,13.0,27.0,848,OverSpeeding,2020
+576,Andhra Pradesh,77.0,29.0,75,Drunken Driving,2020
+577,Arunachal Pradesh,18.0,9.0,24,Drunken Driving,2020
+578,Assam,468.0,252.0,964,Drunken Driving,2020
+579,Bihar,28.0,10.0,29,Drunken Driving,2020
+580,Chhattisgarh,67.0,27.0,200,Drunken Driving,2020
+581,Goa,8.0,0.0,6,Drunken Driving,2020
+582,Gujarat,57.0,12.0,51,Drunken Driving,2020
+583,Haryana,138.0,38.0,72,Drunken Driving,2020
+584,Himachal Pradesh,76.0,20.0,115,Drunken Driving,2020
+585,Jammu & Kashmir,0.0,0.0,0,Drunken Driving,2020
+586,Jharkhand,430.0,256.0,229,Drunken Driving,2020
+587,Karnataka,73.0,21.0,55,Drunken Driving,2020
+588,Kerala,77.0,17.0,85,Drunken Driving,2020
+589,Madhya Pradesh,989.0,237.0,1136,Drunken Driving,2020
+590,Maharashtra,181.0,45.0,172,Drunken Driving,2020
+591,Manipur,27.0,7.0,54,Drunken Driving,2020
+592,Meghalaya,18.0,12.0,6,Drunken Driving,2020
+593,Mizoram,18.0,19.0,17,Drunken Driving,2020
+594,Nagaland,107.0,7.0,35,Drunken Driving,2020
+595,Orissa,648.0,298.0,536,Drunken Driving,2020
+596,Punjab,537.0,349.0,354,Drunken Driving,2020
+597,Rajasthan,161.0,63.0,138,Drunken Driving,2020
+598,Sikkim,28.0,6.0,53,Drunken Driving,2020
+599,Tamil Nadu,696.0,70.0,776,Drunken Driving,2020
+600,Telangana,794.0,203.0,796,Drunken Driving,2020
+601,Tripura,3.0,0.0,6,Drunken Driving,2020
+602,Uttarakhand,14.0,6.0,15,Drunken Driving,2020
+604,West Bengal,20.0,10.0,14,Drunken Driving,2020
+605,A & N Islands,33.0,4.0,24,Drunken Driving,2020
+606,Chandigarh,5.0,1.0,3,Drunken Driving,2020
+607,D & N Haveli,4.0,2.0,3,Drunken Driving,2020
+608,Daman & Diu,0.0,0.0,0,Drunken Driving,2020
+609,Delhi,143.0,36.0,139,Drunken Driving,2020
+610,Lakshadweep,0.0,0.0,0,Drunken Driving,2020
+611,Puducherry,2.0,0.0,6,Drunken Driving,2020
+612,Andhra Pradesh,413.0,137.0,461,Driving On wrong side,2020
+613,Arunachal Pradesh,23.0,7.0,23,Driving On wrong side,2020
+614,Assam,544.0,152.0,887,Driving On wrong side,2020
+615,Bihar,740.0,550.0,546,Driving On wrong side,2020
+616,Chhattisgarh,497.0,109.0,511,Driving On wrong side,2020
+617,Goa,229.0,18.0,70,Driving On wrong side,2020
+618,Gujarat,543.0,208.0,545,Driving On wrong side,2020
+619,Haryana,515.0,176.0,450,Driving On wrong side,2020
+620,Himachal Pradesh,462.0,172.0,686,Driving On wrong side,2020
+621,Jammu & Kashmir,30.0,1.0,59,Driving On wrong side,2020
+622,Jharkhand,173.0,120.0,150,Driving On wrong side,2020
+623,Karnataka,712.0,113.0,900,Driving On wrong side,2020
+627,Manipur,28.0,9.0,40,Driving On wrong side,2020
+628,Meghalaya,19.0,14.0,17,Driving On wrong side,2020
+629,Mizoram,5.0,5.0,13,Driving On wrong side,2020
+630,Nagaland,63.0,5.0,37,Driving On wrong side,2020
+631,Orissa,749.0,296.0,803,Driving On wrong side,2020
+632,Punjab,990.0,714.0,610,Driving On wrong side,2020
+634,Sikkim,33.0,13.0,45,Driving On wrong side,2020
+636,Telangana,160.0,40.0,147,Driving On wrong side,2020
+637,Tripura,34.0,11.0,38,Driving On wrong side,2020
+638,Uttarakhand,81.0,48.0,66,Driving On wrong side,2020
+640,West Bengal,83.0,44.0,99,Driving On wrong side,2020
+641,A & N Islands,4.0,0.0,5,Driving On wrong side,2020
+642,Chandigarh,3.0,1.0,4,Driving On wrong side,2020
+643,D & N Haveli,4.0,0.0,7,Driving On wrong side,2020
+644,Daman & Diu,0.0,0.0,0,Driving On wrong side,2020
+645,Delhi,287.0,60.0,274,Driving On wrong side,2020
+646,Lakshadweep,0.0,0.0,0,Driving On wrong side,2020
+647,Puducherry,122.0,21.0,126,Driving On wrong side,2020
+648,Andhra Pradesh,17.0,2.0,0,Jumping red Lights,2020
+649,Arunachal Pradesh,0.0,0.0,0,Jumping red Lights,2020
+650,Assam,157.0,36.0,405,Jumping red Lights,2020
+651,Bihar,0.0,0.0,0,Jumping red Lights,2020
+652,Chhattisgarh,67.0,4.0,44,Jumping red Lights,2020
+653,Goa,5.0,1.0,1,Jumping red Lights,2020
+654,Gujarat,28.0,12.0,17,Jumping red Lights,2020
+655,Haryana,34.0,11.0,23,Jumping red Lights,2020
+656,Himachal Pradesh,0.0,0.0,0,Jumping red Lights,2020
+657,Jammu & Kashmir,0.0,0.0,31,Jumping red Lights,2020
+658,Jharkhand,69.0,42.0,49,Jumping red Lights,2020
+659,Karnataka,33.0,3.0,30,Jumping red Lights,2020
+660,Kerala,26.0,2.0,39,Jumping red Lights,2020
+661,Madhya Pradesh,375.0,65.0,366,Jumping red Lights,2020
+662,Maharashtra,2.0,0.0,2,Jumping red Lights,2020
+663,Manipur,0.0,0.0,0,Jumping red Lights,2020
+664,Meghalaya,0.0,0.0,0,Jumping red Lights,2020
+665,Mizoram,0.0,0.0,0,Jumping red Lights,2020
+666,Nagaland,0.0,0.0,0,Jumping red Lights,2020
+667,Orissa,56.0,15.0,43,Jumping red Lights,2020
+668,Punjab,266.0,186.0,201,Jumping red Lights,2020
+669,Rajasthan,21.0,7.0,15,Jumping red Lights,2020
+670,Sikkim,0.0,0.0,0,Jumping red Lights,2020
+671,Tamil Nadu,442.0,56.0,576,Jumping red Lights,2020
+672,Telangana,91.0,12.0,88,Jumping red Lights,2020
+673,Tripura,0.0,0.0,0,Jumping red Lights,2020
+674,Uttarakhand,0.0,0.0,0,Jumping red Lights,2020
+675,Uttar Pradesh,761.0,330.0,505,Jumping red Lights,2020
+676,West Bengal,11.0,1.0,11,Jumping red Lights,2020
+677,A & N Islands,0.0,0.0,0,Jumping red Lights,2020
+678,Chandigarh,4.0,1.0,2,Jumping red Lights,2020
+679,D & N Haveli,0.0,0.0,0,Jumping red Lights,2020
+681,Delhi,252.0,78.0,228,Jumping red Lights,2020
+682,Lakshadweep,0.0,0.0,0,Jumping red Lights,2020
+683,Puducherry,0.0,2.0,0,Jumping red Lights,2020
+684,Andhra Pradesh,143.0,38.0,188,Use of Mobile Phones,2020
+685,Arunachal Pradesh,3.0,1.0,5,Use of Mobile Phones,2020
+686,Assam,198.0,51.0,590,Use of Mobile Phones,2020
+687,Bihar,163.0,89.0,174,Use of Mobile Phones,2020
+688,Chhattisgarh,21.0,10.0,18,Use of Mobile Phones,2020
+689,Goa,0.0,0.0,0,Use of Mobile Phones,2020
+690,Gujarat,79.0,11.0,59,Use of Mobile Phones,2020
+691,Haryana,421.0,166.0,306,Use of Mobile Phones,2020
+692,Himachal Pradesh,25.0,8.0,18,Use of Mobile Phones,2020
+693,Jammu & Kashmir,9.0,0.0,0,Use of Mobile Phones,2020
+694,Jharkhand,96.0,60.0,69,Use of Mobile Phones,2020
+695,Karnataka,38.0,4.0,64,Use of Mobile Phones,2020
+696,Kerala,23.0,2.0,25,Use of Mobile Phones,2020
+697,Madhya Pradesh,684.0,143.0,800,Use of Mobile Phones,2020
+698,Maharashtra,10.0,3.0,8,Use of Mobile Phones,2020
+699,Manipur,2.0,0.0,5,Use of Mobile Phones,2020
+700,Meghalaya,4.0,1.0,3,Use of Mobile Phones,2020
+701,Mizoram,2.0,1.0,2,Use of Mobile Phones,2020
+702,Nagaland,0.0,0.0,0,Use of Mobile Phones,2020
+703,Orissa,297.0,120.0,301,Use of Mobile Phones,2020
+704,Punjab,407.0,295.0,159,Use of Mobile Phones,2020
+705,Rajasthan,68.0,45.0,51,Use of Mobile Phones,2020
+706,Sikkim,0.0,0.0,0,Use of Mobile Phones,2020
+707,Tamil Nadu,717.0,83.0,900,Use of Mobile Phones,2020
+708,Telangana,22.0,4.0,23,Use of Mobile Phones,2020
+709,Tripura,0.0,0.0,0,Use of Mobile Phones,2020
+710,Uttarakhand,0.0,0.0,0,Use of Mobile Phones,2020
+712,West Bengal,3.0,1.0,2,Use of Mobile Phones,2020
+713,A & N Islands,0.0,0.0,0,Use of Mobile Phones,2020
+714,Chandigarh,0.0,0.0,0,Use of Mobile Phones,2020
+715,D & N Haveli,0.0,0.0,0,Use of Mobile Phones,2020
+716,Daman & Diu,0.0,0.0,0,Use of Mobile Phones,2020
+717,Delhi,86.0,23.0,74,Use of Mobile Phones,2020
+718,Lakshadweep,0.0,0.0,0,Use of Mobile Phones,2020
+719,Puducherry,0.0,0.0,5,Use of Mobile Phones,2020
+0,Andhra Pradesh,9407.078014184397,6768.0,23497,OverSpeeding,2017
+2,Assam,9407.078014184397,1721.0,3884,OverSpeeding,2017
+3,Bihar,9407.078014184397,3716.0,3879,OverSpeeding,2017
+4,Chhattisgarh,9407.078014184397,2592.0,8037,OverSpeeding,2017
+5,Goa,9407.078014184397,316.0,1747,OverSpeeding,2017
+6,Gujarat,9407.078014184397,5948.0,13866,OverSpeeding,2017
+7,Haryana,9407.078014184397,1962.0,4241,OverSpeeding,2017
+9,Jammu & Kashmir,9407.078014184397,531.0,3866,OverSpeeding,2017
+10,Jharkhand,9407.078014184397,1800.0,1921,OverSpeeding,2017
+11,Karnataka,9407.078014184397,9584.0,47278,OverSpeeding,2017
+12,Kerala,9407.078014184397,3679.0,37715,OverSpeeding,2017
+13,Madhya Pradesh,9407.078014184397,7846.0,41245,OverSpeeding,2017
+14,Maharashtra,9407.078014184397,8819.0,23273,OverSpeeding,2017
+19,Orissa,9407.078014184397,2612.0,6188,OverSpeeding,2017
+20,Punjab,9407.078014184397,2363.0,2254,OverSpeeding,2017
+21,Rajasthan,9407.078014184397,8247.0,17180,OverSpeeding,2017
+23,Tamil Nadu,9407.078014184397,12570.0,59856,OverSpeeding,2017
+24,Telangana,9407.078014184397,6082.0,22593,OverSpeeding,2017
+26,Uttarakhand,9407.078014184397,692.0,955,OverSpeeding,2017
+27,Uttar Pradesh,9407.078014184397,7446.0,9653,OverSpeeding,2017
+28,West Bengal,9407.078014184397,1882.0,3618,OverSpeeding,2017
+33,Delhi,9407.078014184397,651.0,2728,OverSpeeding,2017
+36,Andhra Pradesh,9407.078014184397,156.0,466,Drunken Driving,2017
+55,Orissa,9407.078014184397,735.0,1426,Drunken Driving,2017
+59,Tamil Nadu,9407.078014184397,403.0,2106,Drunken Driving,2017
+63,Uttar Pradesh,9407.078014184397,1687.0,2524,Drunken Driving,2017
+72,Andhra Pradesh,9407.078014184397,315.0,1485,Driving On wrong side,2017
+75,Bihar,9407.078014184397,752.0,997,Driving On wrong side,2017
+76,Chhattisgarh,9407.078014184397,332.0,1375,Driving On wrong side,2017
+80,Himachal Pradesh,9407.078014184397,688.0,3104,Driving On wrong side,2017
+83,Karnataka,9407.078014184397,207.0,2069,Driving On wrong side,2017
+84,Kerala,9407.078014184397,109.0,1431,Driving On wrong side,2017
+85,Madhya Pradesh,9407.078014184397,610.0,4085,Driving On wrong side,2017
+86,Maharashtra,9407.078014184397,657.0,1840,Driving On wrong side,2017
+93,Rajasthan,9407.078014184397,474.0,1079,Driving On wrong side,2017
+95,Tamil Nadu,9407.078014184397,656.0,3666,Driving On wrong side,2017
+99,Uttar Pradesh,9407.078014184397,2562.0,3609,Driving On wrong side,2017
+131,Tamil Nadu,9407.078014184397,405.0,2515,Jumping red Lights,2017
+167,Tamil Nadu,9407.078014184397,242.0,1285,Use of Mobile Phones,2017
+171,Uttar Pradesh,9407.078014184397,1512.0,2306,Use of Mobile Phones,2017
+180,Andhra Pradesh,9407.078014184397,6196.0,18119,OverSpeeding,2018
+182,Assam,9407.078014184397,995.0,1436,OverSpeeding,2018
+183,Bihar,9407.078014184397,5809.0,5378,OverSpeeding,2018
+184,Chhattisgarh,9407.078014184397,4270.0,11824,OverSpeeding,2018
+185,Goa,9407.078014184397,216.0,1319,OverSpeeding,2018
+186,Gujarat,9407.078014184397,6988.0,14865,OverSpeeding,2018
+187,Haryana,9407.078014184397,2657.0,4923,OverSpeeding,2018
+188,Himachal Pradesh,9407.078014184397,536.0,2385,OverSpeeding,2018
+189,Jammu & Kashmir,9407.078014184397,971.0,7743,OverSpeeding,2018
+190,Jharkhand,9407.078014184397,2052.0,2288,OverSpeeding,2018
+191,Karnataka,9407.078014184397,8714.0,35886,OverSpeeding,2018
+192,Kerala,9407.078014184397,2985.0,33989,OverSpeeding,2018
+193,Madhya Pradesh,9407.078014184397,8635.0,42736,OverSpeeding,2018
+194,Maharashtra,9407.078014184397,3926.0,8683,OverSpeeding,2018
+199,Orissa,9407.078014184397,3644.0,7875,OverSpeeding,2018
+200,Punjab,9407.078014184397,2540.0,1621,OverSpeeding,2018
+201,Rajasthan,9407.078014184397,9618.0,19895,OverSpeeding,2018
+203,Tamil Nadu,9407.078014184397,9224.0,53348,OverSpeeding,2018
+204,Telangana,9407.078014184397,6212.0,22414,OverSpeeding,2018
+207,Uttar Pradesh,9407.078014184397,7098.0,9371,OverSpeeding,2018
+208,West Bengal,9407.078014184397,2326.0,4375,OverSpeeding,2018
+213,Delhi,9407.078014184397,748.0,2618,OverSpeeding,2018
+216,Andhra Pradesh,9407.078014184397,85.0,187,Drunken Driving,2018
+235,Orissa,9407.078014184397,555.0,1112,Drunken Driving,2018
+239,Tamil Nadu,9407.078014184397,225.0,1359,Drunken Driving,2018
+243,Uttar Pradesh,9407.078014184397,1824.0,2594,Drunken Driving,2018
+254,Assam,9407.078014184397,482.0,1188,Driving On wrong side,2018
+255,Bihar,9407.078014184397,777.0,1089,Driving On wrong side,2018
+263,Karnataka,9407.078014184397,262.0,1596,Driving On wrong side,2018
+264,Kerala,9407.078014184397,115.0,1713,Driving On wrong side,2018
+265,Madhya Pradesh,9407.078014184397,617.0,3087,Driving On wrong side,2018
+266,Maharashtra,9407.078014184397,384.0,924,Driving On wrong side,2018
+275,Tamil Nadu,9407.078014184397,527.0,3418,Driving On wrong side,2018
+279,Uttar Pradesh,9407.078014184397,2253.0,3317,Driving On wrong side,2018
+347,Tamil Nadu,9407.078014184397,252.0,1561,Use of Mobile Phones,2018
+351,Uttar Pradesh,9407.078014184397,1956.0,2821,Use of Mobile Phones,2018
+360,Andhra Pradesh,9407.078014184397,5530.0,16844,OverSpeeding,2019
+362,Assam,9407.078014184397,2426.0,6025,OverSpeeding,2019
+363,Bihar,9407.078014184397,3815.0,3847,OverSpeeding,2019
+364,Chhattisgarh,9407.078014184397,4440.0,11632,OverSpeeding,2019
+365,Goa,9407.078014184397,233.0,1228,OverSpeeding,2019
+366,Gujarat,9407.078014184397,6343.0,13398,OverSpeeding,2019
+367,Haryana,9407.078014184397,3640.0,5949,OverSpeeding,2019
+368,Himachal Pradesh,9407.078014184397,673.0,2903,OverSpeeding,2019
+369,Jammu & Kashmir,9407.078014184397,980.0,7401,OverSpeeding,2019
+370,Jharkhand,9407.078014184397,2195.0,1979,OverSpeeding,2019
+371,Karnataka,9407.078014184397,9140.0,38414,OverSpeeding,2019
+372,Kerala,9407.078014184397,2928.0,33334,OverSpeeding,2019
+373,Madhya Pradesh,9407.078014184397,9341.0,42042,OverSpeeding,2019
+374,Maharashtra,9407.078014184397,8175.0,17312,OverSpeeding,2019
+379,Orissa,9407.078014184397,3808.0,7731,OverSpeeding,2019
+380,Punjab,9407.078014184397,905.0,829,OverSpeeding,2019
+381,Rajasthan,9407.078014184397,9050.0,18781,OverSpeeding,2019
+383,Tamil Nadu,9407.078014184397,8832.0,55415,OverSpeeding,2019
+384,Telangana,9407.078014184397,6739.0,21321,OverSpeeding,2019
+387,Uttar Pradesh,9407.078014184397,8398.0,10307,OverSpeeding,2019
+388,West Bengal,9407.078014184397,2050.0,3903,OverSpeeding,2019
+393,Delhi,9407.078014184397,713.0,2093,OverSpeeding,2019
+416,Punjab,9407.078014184397,889.0,1059,Drunken Driving,2019
+423,Uttar Pradesh,9407.078014184397,2224.0,3070,Drunken Driving,2019
+435,Bihar,9407.078014184397,1034.0,1086,Driving On wrong side,2019
+443,Karnataka,9407.078014184397,248.0,1520,Driving On wrong side,2019
+444,Kerala,9407.078014184397,131.0,1791,Driving On wrong side,2019
+445,Madhya Pradesh,9407.078014184397,555.0,2952,Driving On wrong side,2019
+452,Punjab,9407.078014184397,987.0,984,Driving On wrong side,2019
+453,Rajasthan,9407.078014184397,478.0,1139,Driving On wrong side,2019
+455,Tamil Nadu,9407.078014184397,402.0,2637,Driving On wrong side,2019
+459,Uttar Pradesh,9407.078014184397,2517.0,3606,Driving On wrong side,2019
+488,Punjab,9407.078014184397,846.0,746,Jumping red Lights,2019
+524,Punjab,9407.078014184397,881.0,194,Use of Mobile Phones,2019
+531,Uttar Pradesh,9407.078014184397,2699.0,3305,Use of Mobile Phones,2019
+540,Andhra Pradesh,9407.078014184397,5227.0,15192,OverSpeeding,2020
+542,Assam,9407.078014184397,1899.0,1696,OverSpeeding,2020
+543,Bihar,9407.078014184397,2713.0,2670,OverSpeeding,2020
+544,Chhattisgarh,9407.078014184397,4045.0,8868,OverSpeeding,2020
+545,Goa,9407.078014184397,181.0,766,OverSpeeding,2020
+546,Gujarat,9407.078014184397,5806.0,11122,OverSpeeding,2020
+547,Haryana,9407.078014184397,3011.0,5157,OverSpeeding,2020
+548,Himachal Pradesh,9407.078014184397,558.0,1959,OverSpeeding,2020
+549,Jammu & Kashmir,9407.078014184397,727.0,5804,OverSpeeding,2020
+550,Jharkhand,9407.078014184397,2282.0,2283,OverSpeeding,2020
+551,Karnataka,9407.078014184397,8055.0,32029,OverSpeeding,2020
+552,Kerala,9407.078014184397,1787.0,19998,OverSpeeding,2020
+553,Madhya Pradesh,9407.078014184397,9224.0,37945,OverSpeeding,2020
+554,Maharashtra,9407.078014184397,9152.0,15387,OverSpeeding,2020
+559,Orissa,9407.078014184397,3483.0,6333,OverSpeeding,2020
+560,Punjab,9407.078014184397,1805.0,1225,OverSpeeding,2020
+561,Rajasthan,9407.078014184397,7866.0,14041,OverSpeeding,2020
+563,Tamil Nadu,9407.078014184397,6844.0,42081,OverSpeeding,2020
+564,Telangana,9407.078014184397,6109.0,16077,OverSpeeding,2020
+567,Uttar Pradesh,9407.078014184397,7356.0,8197,OverSpeeding,2020
+568,West Bengal,9407.078014184397,1530.0,2974,OverSpeeding,2020
+573,Delhi,9407.078014184397,488.0,986,OverSpeeding,2020
+603,Uttar Pradesh,9407.078014184397,1256.0,1657,Drunken Driving,2020
+624,Kerala,9407.078014184397,88.0,1520,Driving On wrong side,2020
+625,Madhya Pradesh,9407.078014184397,535.0,2484,Driving On wrong side,2020
+626,Maharashtra,9407.078014184397,489.0,905,Driving On wrong side,2020
+633,Rajasthan,9407.078014184397,533.0,1161,Driving On wrong side,2020
+635,Tamil Nadu,9407.078014184397,373.0,2887,Driving On wrong side,2020
+639,Uttar Pradesh,9407.078014184397,2270.0,2905,Driving On wrong side,2020
+711,Uttar Pradesh,9407.078014184397,1758.0,2131,Use of Mobile Phones,2020
