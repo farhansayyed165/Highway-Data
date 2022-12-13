@@ -1,0 +1,721 @@
+States/UTs,Number of Accidents,Persons Killed,People Injured,Traffic Voilation type,Year
+Andhra Pradesh,20612,6768,23497,OverSpeeding,2017
+Arunachal Pradesh,31,17,20,OverSpeeding,2017
+Assam,4590,1721,3884,OverSpeeding,2017
+Bihar,5749,3716,3879,OverSpeeding,2017
+Chhattisgarh,8912,2592,8037,OverSpeeding,2017
+Goa,3536,316,1747,OverSpeeding,2017
+Gujarat,15759,5948,13866,OverSpeeding,2017
+Haryana,4481,1962,4241,OverSpeeding,2017
+Himachal Pradesh,628,256,1054,OverSpeeding,2017
+Jammu & Kashmir,2947,531,3866,OverSpeeding,2017
+Jharkhand,2629,1800,1921,OverSpeeding,2017
+Karnataka,37984,9584,47278,OverSpeeding,2017
+Kerala,34119,3679,37715,OverSpeeding,2017
+Madhya Pradesh,37513,7846,41245,OverSpeeding,2017
+Maharashtra,25164,8819,23273,OverSpeeding,2017
+Manipur,156,42,280,OverSpeeding,2017
+Meghalaya,65,17,33,OverSpeeding,2017
+Mizoram,16,12,8,OverSpeeding,2017
+Nagaland,170,15,124,OverSpeeding,2017
+Orissa,5867,2612,6188,OverSpeeding,2017
+Punjab,3323,2363,2254,OverSpeeding,2017
+Rajasthan,16809,8247,17180,OverSpeeding,2017
+Sikkim,79,48,192,OverSpeeding,2017
+Tamil Nadu,51565,12570,59856,OverSpeeding,2017
+Telangana,21135,6082,22593,OverSpeeding,2017
+Tripura,432,132,631,OverSpeeding,2017
+Uttarakhand,1095,692,955,OverSpeeding,2017
+Uttar Pradesh,14276,7446,9653,OverSpeeding,2017
+West Bengal,3926,1882,3618,OverSpeeding,2017
+A & N Islands,133,15,208,OverSpeeding,2017
+Chandigarh,325,102,291,OverSpeeding,2017
+D & N Haveli,43,25,26,OverSpeeding,2017
+Daman & Diu,61,30,48,OverSpeeding,2017
+Delhi,2664,651,2728,OverSpeeding,2017
+Lakshadweep,0,0,0,OverSpeeding,2017
+Puducherry,654,75,694,OverSpeeding,2017
+Andhra Pradesh,2064,156,466,Drunken Driving,2017
+Arunachal Pradesh,19,13,21,Drunken Driving,2017
+Assam,373,142,353,Drunken Driving,2017
+Bihar,0,0,0,Drunken Driving,2017
+Chhattisgarh,86,17,119,Drunken Driving,2017
+Goa,10,0,7,Drunken Driving,2017
+Gujarat,65,18,91,Drunken Driving,2017
+Haryana,180,86,168,Drunken Driving,2017
+Himachal Pradesh,214,89,457,Drunken Driving,2017
+Jammu & Kashmir,1,0,1,Drunken Driving,2017
+Jharkhand,801,430,512,Drunken Driving,2017
+Karnataka,169,23,212,Drunken Driving,2017
+Kerala,133,7,178,Drunken Driving,2017
+Madhya Pradesh,1049,217,1221,Drunken Driving,2017
+Maharashtra,863,293,830,Drunken Driving,2017
+Manipur,44,9,71,Drunken Driving,2017
+Meghalaya,132,89,53,Drunken Driving,2017
+Mizoram,16,13,21,Drunken Driving,2017
+Nagaland,157,3,120,Drunken Driving,2017
+Orissa,1533,735,1426,Drunken Driving,2017
+Punjab,129,95,70,Drunken Driving,2017
+Rajasthan,421,142,349,Drunken Driving,2017
+Sikkim,32,5,44,Drunken Driving,2017
+Tamil Nadu,1833,403,2106,Drunken Driving,2017
+Telangana,163,34,118,Drunken Driving,2017
+Tripura,11,2,17,Drunken Driving,2017
+Uttarakhand,56,30,36,Drunken Driving,2017
+Uttar Pradesh,3336,1687,2524,Drunken Driving,2017
+West Bengal,16,2,13,Drunken Driving,2017
+A & N Islands,13,2,12,Drunken Driving,2017
+Chandigarh,10,3,3,Drunken Driving,2017
+D & N Haveli,1,4,5,Drunken Driving,2017
+Daman & Diu,12,3,17,Drunken Driving,2017
+Delhi,124,24,126,Drunken Driving,2017
+Lakshadweep,0,0,0,Drunken Driving,2017
+Puducherry,5,0,9,Drunken Driving,2017
+Andhra Pradesh,1073,315,1485,Driving On wrong side,2017
+Arunachal Pradesh,41,16,70,Driving On wrong side,2017
+Assam,579,212,481,Driving On wrong side,2017
+Bihar,1290,752,997,Driving On wrong side,2017
+Chhattisgarh,1357,332,1375,Driving On wrong side,2017
+Goa,88,10,38,Driving On wrong side,2017
+Gujarat,951,377,1037,Driving On wrong side,2017
+Haryana,432,185,451,Driving On wrong side,2017
+Himachal Pradesh,1882,688,3104,Driving On wrong side,2017
+Jammu & Kashmir,65,11,71,Driving On wrong side,2017
+Jharkhand,379,218,301,Driving On wrong side,2017
+Karnataka,1422,207,2069,Driving On wrong side,2017
+Kerala,1254,109,1431,Driving On wrong side,2017
+Madhya Pradesh,4024,610,4085,Driving On wrong side,2017
+Maharashtra,2411,657,1840,Driving On wrong side,2017
+Manipur,56,5,89,Driving On wrong side,2017
+Meghalaya,151,32,89,Driving On wrong side,2017
+Mizoram,3,2,2,Driving On wrong side,2017
+Nagaland,36,2,8,Driving On wrong side,2017
+Orissa,842,368,984,Driving On wrong side,2017
+Punjab,602,387,485,Driving On wrong side,2017
+Rajasthan,1076,474,1079,Driving On wrong side,2017
+Sikkim,11,3,26,Driving On wrong side,2017
+Tamil Nadu,3116,656,3666,Driving On wrong side,2017
+Telangana,263,67,305,Driving On wrong side,2017
+Tripura,47,20,50,Driving On wrong side,2017
+Uttarakhand,109,43,98,Driving On wrong side,2017
+Uttar Pradesh,4835,2562,3609,Driving On wrong side,2017
+West Bengal,278,121,317,Driving On wrong side,2017
+A & N Islands,18,1,19,Driving On wrong side,2017
+Chandigarh,2,1,4,Driving On wrong side,2017
+D & N Haveli,3,1,2,Driving On wrong side,2017
+Daman & Diu,4,2,2,Driving On wrong side,2017
+Delhi,308,51,301,Driving On wrong side,2017
+Lakshadweep,0,0,0,Driving On wrong side,2017
+Puducherry,140,30,154,Driving On wrong side,2017
+Andhra Pradesh,194,104,195,Jumping red Lights,2017
+Arunachal Pradesh,0,0,0,Jumping red Lights,2017
+Assam,98,27,78,Jumping red Lights,2017
+Bihar,318,184,139,Jumping red Lights,2017
+Chhattisgarh,372,60,362,Jumping red Lights,2017
+Goa,4,0,1,Jumping red Lights,2017
+Gujarat,46,21,45,Jumping red Lights,2017
+Haryana,147,53,134,Jumping red Lights,2017
+Himachal Pradesh,0,0,0,Jumping red Lights,2017
+Jammu & Kashmir,0,0,0,Jumping red Lights,2017
+Jharkhand,169,120,101,Jumping red Lights,2017
+Karnataka,105,11,124,Jumping red Lights,2017
+Kerala,406,23,412,Jumping red Lights,2017
+Madhya Pradesh,277,62,264,Jumping red Lights,2017
+Maharashtra,119,40,95,Jumping red Lights,2017
+Manipur,0,0,0,Jumping red Lights,2017
+Meghalaya,104,7,63,Jumping red Lights,2017
+Mizoram,0,0,0,Jumping red Lights,2017
+Nagaland,0,0,0,Jumping red Lights,2017
+Orissa,174,62,144,Jumping red Lights,2017
+Punjab,84,67,97,Jumping red Lights,2017
+Rajasthan,15,3,9,Jumping red Lights,2017
+Sikkim,0,0,0,Jumping red Lights,2017
+Tamil Nadu,2381,405,2515,Jumping red Lights,2017
+Telangana,0,0,0,Jumping red Lights,2017
+Tripura,0,0,0,Jumping red Lights,2017
+Uttarakhand,14,4,15,Jumping red Lights,2017
+Uttar Pradesh,912,444,800,Jumping red Lights,2017
+West Bengal,122,68,128,Jumping red Lights,2017
+A & N Islands,0,0,0,Jumping red Lights,2017
+Chandigarh,4,1,3,Jumping red Lights,2017
+D & N Haveli,0,0,0,Jumping red Lights,2017
+Daman & Diu,0,0,0,Jumping red Lights,2017
+Delhi,255,60,250,Jumping red Lights,2017
+Lakshadweep,0,0,0,Jumping red Lights,2017
+Puducherry,4,0,3,Jumping red Lights,2017
+Andhra Pradesh,108,51,109,Use of Mobile Phones,2017
+Arunachal Pradesh,0,0,0,Use of Mobile Phones,2017
+Assam,200,74,199,Use of Mobile Phones,2017
+Bihar,408,217,254,Use of Mobile Phones,2017
+Chhattisgarh,127,28,203,Use of Mobile Phones,2017
+Goa,0,0,0,Use of Mobile Phones,2017
+Gujarat,169,59,155,Use of Mobile Phones,2017
+Haryana,89,40,90,Use of Mobile Phones,2017
+Himachal Pradesh,19,8,41,Use of Mobile Phones,2017
+Jammu & Kashmir,1,0,0,Use of Mobile Phones,2017
+Jharkhand,226,77,180,Use of Mobile Phones,2017
+Karnataka,97,31,206,Use of Mobile Phones,2017
+Kerala,1,0,1,Use of Mobile Phones,2017
+Madhya Pradesh,717,114,1012,Use of Mobile Phones,2017
+Maharashtra,745,282,535,Use of Mobile Phones,2017
+Manipur,53,6,86,Use of Mobile Phones,2017
+Meghalaya,99,21,42,Use of Mobile Phones,2017
+Mizoram,0,0,0,Use of Mobile Phones,2017
+Nagaland,23,0,0,Use of Mobile Phones,2017
+Orissa,691,257,776,Use of Mobile Phones,2017
+Punjab,86,52,93,Use of Mobile Phones,2017
+Rajasthan,24,6,28,Use of Mobile Phones,2017
+Sikkim,1,1,1,Use of Mobile Phones,2017
+Tamil Nadu,1189,242,1285,Use of Mobile Phones,2017
+Telangana,85,35,85,Use of Mobile Phones,2017
+Tripura,0,0,0,Use of Mobile Phones,2017
+Uttarakhand,41,22,39,Use of Mobile Phones,2017
+Uttar Pradesh,3219,1512,2306,Use of Mobile Phones,2017
+West Bengal,67,33,62,Use of Mobile Phones,2017
+A & N Islands,0,0,0,Use of Mobile Phones,2017
+Chandigarh,1,0,1,Use of Mobile Phones,2017
+D & N Haveli,0,0,0,Use of Mobile Phones,2017
+Daman & Diu,1,1,1,Use of Mobile Phones,2017
+Delhi,39,3,40,Use of Mobile Phones,2017
+Lakshadweep,0,0,0,Use of Mobile Phones,2017
+Puducherry,0,0,0,Use of Mobile Phones,2017
+Andhra Pradesh,17740,6196,18119,OverSpeeding,2018
+Arunachal Pradesh,135,79,122,OverSpeeding,2018
+Assam,2532,995,1436,OverSpeeding,2018
+Bihar,8116,5809,5378,OverSpeeding,2018
+Chhattisgarh,12813,4270,11824,OverSpeeding,2018
+Goa,2853,216,1319,OverSpeeding,2018
+Gujarat,16361,6988,14865,OverSpeeding,2018
+Haryana,5922,2657,4923,OverSpeeding,2018
+Himachal Pradesh,1445,536,2385,OverSpeeding,2018
+Jammu & Kashmir,5915,971,7743,OverSpeeding,2018
+Jharkhand,3064,2052,2288,OverSpeeding,2018
+Karnataka,32269,8714,35886,OverSpeeding,2018
+Kerala,29776,2985,33989,OverSpeeding,2018
+Madhya Pradesh,39809,8635,42736,OverSpeeding,2018
+Maharashtra,9956,3926,8683,OverSpeeding,2018
+Manipur,90,21,159,OverSpeeding,2018
+Meghalaya,64,43,20,OverSpeeding,2018
+Mizoram,18,14,11,OverSpeeding,2018
+Nagaland,199,15,135,OverSpeeding,2018
+Orissa,7474,3644,7875,OverSpeeding,2018
+Punjab,3335,2540,1621,OverSpeeding,2018
+Rajasthan,20132,9618,19895,OverSpeeding,2018
+Sikkim,71,33,44,OverSpeeding,2018
+Tamil Nadu,46113,9224,53348,OverSpeeding,2018
+Telangana,20890,6212,22414,OverSpeeding,2018
+Tripura,426,163,551,OverSpeeding,2018
+Uttarakhand,900,569,878,OverSpeeding,2018
+Uttar Pradesh,13843,7098,9371,OverSpeeding,2018
+West Bengal,4187,2326,4375,OverSpeeding,2018
+A & N Islands,148,7,186,OverSpeeding,2018
+Chandigarh,280,93,267,OverSpeeding,2018
+D & N Haveli,78,51,65,OverSpeeding,2018
+Daman & Diu,57,29,68,OverSpeeding,2018
+Delhi,2866,748,2618,OverSpeeding,2018
+Lakshadweep,1,1,1,OverSpeeding,2018
+Puducherry,734,110,823,OverSpeeding,2018
+Andhra Pradesh,1345,85,187,Drunken Driving,2018
+Arunachal Pradesh,55,41,83,Drunken Driving,2018
+Assam,377,130,355,Drunken Driving,2018
+Bihar,10,3,18,Drunken Driving,2018
+Chhattisgarh,216,55,179,Drunken Driving,2018
+Goa,9,4,2,Drunken Driving,2018
+Gujarat,106,15,118,Drunken Driving,2018
+Haryana,474,251,543,Drunken Driving,2018
+Himachal Pradesh,322,70,498,Drunken Driving,2018
+Jammu & Kashmir,20,5,27,Drunken Driving,2018
+Jharkhand,517,328,321,Drunken Driving,2018
+Karnataka,139,22,164,Drunken Driving,2018
+Kerala,157,25,169,Drunken Driving,2018
+Madhya Pradesh,893,145,888,Drunken Driving,2018
+Maharashtra,188,42,197,Drunken Driving,2018
+Manipur,74,17,115,Drunken Driving,2018
+Meghalaya,117,66,49,Drunken Driving,2018
+Mizoram,16,13,15,Drunken Driving,2018
+Nagaland,83,0,61,Drunken Driving,2018
+Orissa,1220,555,1112,Drunken Driving,2018
+Punjab,112,85,62,Drunken Driving,2018
+Rajasthan,146,52,129,Drunken Driving,2018
+Sikkim,2,2,0,Drunken Driving,2018
+Tamil Nadu,1128,225,1359,Drunken Driving,2018
+Telangana,182,24,194,Drunken Driving,2018
+Tripura,28,8,47,Drunken Driving,2018
+Uttarakhand,20,16,42,Drunken Driving,2018
+Uttar Pradesh,3595,1824,2594,Drunken Driving,2018
+West Bengal,79,6,60,Drunken Driving,2018
+A & N Islands,20,0,19,Drunken Driving,2018
+Chandigarh,12,0,7,Drunken Driving,2018
+D & N Haveli,1,0,0,Drunken Driving,2018
+Daman & Diu,8,0,16,Drunken Driving,2018
+Delhi,333,72,292,Drunken Driving,2018
+Lakshadweep,0,0,0,Drunken Driving,2018
+Puducherry,14,2,22,Drunken Driving,2018
+Andhra Pradesh,740,192,847,Driving On wrong side,2018
+Arunachal Pradesh,8,6,6,Driving On wrong side,2018
+Assam,1448,482,1188,Driving On wrong side,2018
+Bihar,1241,777,1089,Driving On wrong side,2018
+Chhattisgarh,740,252,620,Driving On wrong side,2018
+Goa,90,4,44,Driving On wrong side,2018
+Gujarat,959,352,925,Driving On wrong side,2018
+Haryana,1055,533,1036,Driving On wrong side,2018
+Himachal Pradesh,270,60,461,Driving On wrong side,2018
+Jammu & Kashmir,13,4,23,Driving On wrong side,2018
+Jharkhand,401,299,269,Driving On wrong side,2018
+Karnataka,1289,262,1596,Driving On wrong side,2018
+Kerala,1455,115,1713,Driving On wrong side,2018
+Madhya Pradesh,2953,617,3087,Driving On wrong side,2018
+Maharashtra,1084,384,924,Driving On wrong side,2018
+Manipur,24,6,67,Driving On wrong side,2018
+Meghalaya,49,11,33,Driving On wrong side,2018
+Mizoram,5,3,10,Driving On wrong side,2018
+Nagaland,72,8,55,Driving On wrong side,2018
+Orissa,1002,374,1198,Driving On wrong side,2018
+Punjab,1055,759,678,Driving On wrong side,2018
+Rajasthan,196,72,172,Driving On wrong side,2018
+Sikkim,12,4,11,Driving On wrong side,2018
+Tamil Nadu,2507,527,3418,Driving On wrong side,2018
+Telangana,200,32,206,Driving On wrong side,2018
+Tripura,48,18,81,Driving On wrong side,2018
+Uttarakhand,173,105,167,Driving On wrong side,2018
+Uttar Pradesh,4572,2253,3317,Driving On wrong side,2018
+West Bengal,194,101,233,Driving On wrong side,2018
+A & N Islands,16,1,11,Driving On wrong side,2018
+Chandigarh,1,0,3,Driving On wrong side,2018
+D & N Haveli,1,3,1,Driving On wrong side,2018
+Daman & Diu,11,6,10,Driving On wrong side,2018
+Delhi,460,69,483,Driving On wrong side,2018
+Lakshadweep,2,0,2,Driving On wrong side,2018
+Puducherry,435,73,116,Driving On wrong side,2018
+Andhra Pradesh,48,1,49,Jumping red Lights,2018
+Arunachal Pradesh,0,0,0,Jumping red Lights,2018
+Assam,159,62,149,Jumping red Lights,2018
+Bihar,130,79,99,Jumping red Lights,2018
+Chhattisgarh,37,3,28,Jumping red Lights,2018
+Goa,1,0,2,Jumping red Lights,2018
+Gujarat,181,53,192,Jumping red Lights,2018
+Haryana,512,218,578,Jumping red Lights,2018
+Himachal Pradesh,0,0,0,Jumping red Lights,2018
+Jammu & Kashmir,26,4,44,Jumping red Lights,2018
+Jharkhand,47,31,34,Jumping red Lights,2018
+Karnataka,69,4,61,Jumping red Lights,2018
+Kerala,105,8,113,Jumping red Lights,2018
+Madhya Pradesh,99,8,78,Jumping red Lights,2018
+Maharashtra,98,16,94,Jumping red Lights,2018
+Manipur,10,2,21,Jumping red Lights,2018
+Meghalaya,8,6,3,Jumping red Lights,2018
+Mizoram,0,0,0,Jumping red Lights,2018
+Nagaland,0,0,0,Jumping red Lights,2018
+Orissa,218,88,187,Jumping red Lights,2018
+Punjab,240,161,117,Jumping red Lights,2018
+Rajasthan,12,6,11,Jumping red Lights,2018
+Sikkim,0,0,0,Jumping red Lights,2018
+Tamil Nadu,939,290,999,Jumping red Lights,2018
+Telangana,54,10,49,Jumping red Lights,2018
+Tripura,0,0,0,Jumping red Lights,2018
+Uttarakhand,2,1,11,Jumping red Lights,2018
+Uttar Pradesh,679,284,560,Jumping red Lights,2018
+West Bengal,53,26,43,Jumping red Lights,2018
+A & N Islands,0,0,0,Jumping red Lights,2018
+Chandigarh,10,1,13,Jumping red Lights,2018
+D & N Haveli,0,0,0,Jumping red Lights,2018
+Daman & Diu,0,0,0,Jumping red Lights,2018
+Delhi,658,176,583,Jumping red Lights,2018
+Lakshadweep,0,0,0,Jumping red Lights,2018
+Puducherry,46,7,18,Jumping red Lights,2018
+Andhra Pradesh,82,7,70,Use of Mobile Phones,2018
+Arunachal Pradesh,51,32,64,Use of Mobile Phones,2018
+Assam,112,22,108,Use of Mobile Phones,2018
+Bihar,103,61,95,Use of Mobile Phones,2018
+Chhattisgarh,58,12,64,Use of Mobile Phones,2018
+Goa,0,0,0,Use of Mobile Phones,2018
+Gujarat,460,187,444,Use of Mobile Phones,2018
+Haryana,474,269,474,Use of Mobile Phones,2018
+Himachal Pradesh,0,0,0,Use of Mobile Phones,2018
+Jammu & Kashmir,4,0,8,Use of Mobile Phones,2018
+Jharkhand,310,206,130,Use of Mobile Phones,2018
+Karnataka,173,44,125,Use of Mobile Phones,2018
+Kerala,26,4,24,Use of Mobile Phones,2018
+Madhya Pradesh,465,61,496,Use of Mobile Phones,2018
+Maharashtra,187,55,216,Use of Mobile Phones,2018
+Manipur,29,2,45,Use of Mobile Phones,2018
+Meghalaya,14,8,5,Use of Mobile Phones,2018
+Mizoram,0,0,0,Use of Mobile Phones,2018
+Nagaland,0,0,0,Use of Mobile Phones,2018
+Orissa,611,260,647,Use of Mobile Phones,2018
+Punjab,252,158,134,Use of Mobile Phones,2018
+Rajasthan,39,18,67,Use of Mobile Phones,2018
+Sikkim,4,3,3,Use of Mobile Phones,2018
+Tamil Nadu,1477,252,1561,Use of Mobile Phones,2018
+Telangana,17,3,26,Use of Mobile Phones,2018
+Tripura,0,0,0,Use of Mobile Phones,2018
+Uttarakhand,0,0,0,Use of Mobile Phones,2018
+Uttar Pradesh,3828,1956,2821,Use of Mobile Phones,2018
+West Bengal,19,50,26,Use of Mobile Phones,2018
+11,0,0,0,Use of Mobile Phones,2018
+Chandigarh,0,0,0,Use of Mobile Phones,2018
+D & N Haveli,0,0,0,Use of Mobile Phones,2018
+Daman & Diu,0,0,0,Use of Mobile Phones,2018
+Delhi,244,37,225,Use of Mobile Phones,2018
+Lakshadweep,0,0,0,Use of Mobile Phones,2018
+Puducherry,0,0,0,Use of Mobile Phones,2018
+Andhra Pradesh,15382,5530,16844,OverSpeeding,2019
+Arunachal Pradesh,76,41,89,OverSpeeding,2019
+Assam,6322,2426,6025,OverSpeeding,2019
+Bihar,5130,3815,3847,OverSpeeding,2019
+Chhattisgarh,12139,4440,11632,OverSpeeding,2019
+Goa,2979,233,1228,OverSpeeding,2019
+Gujarat,14464,6343,13398,OverSpeeding,2019
+Haryana,7224,3640,5949,OverSpeeding,2019
+Himachal Pradesh,1932,673,2903,OverSpeeding,2019
+Jammu & Kashmir,5699,980,7401,OverSpeeding,2019
+Jharkhand,3035,2195,1979,OverSpeeding,2019
+Karnataka,33012,9140,38414,OverSpeeding,2019
+Kerala,29281,2928,33334,OverSpeeding,2019
+Madhya Pradesh,40066,9341,42042,OverSpeeding,2019
+Maharashtra,20045,8175,17312,OverSpeeding,2019
+Manipur,378,97,597,OverSpeeding,2019
+Meghalaya,172,61,82,OverSpeeding,2019
+Mizoram,32,27,31,OverSpeeding,2019
+Nagaland,131,12,113,OverSpeeding,2019
+Orissa,7632,3808,7731,OverSpeeding,2019
+Punjab,1211,905,829,OverSpeeding,2019
+Rajasthan,19889,9050,18781,OverSpeeding,2019
+Sikkim,77,32,97,OverSpeeding,2019
+Tamil Nadu,46878,8832,55415,OverSpeeding,2019
+Telangana,20669,6739,21321,OverSpeeding,2019
+Tripura,588,209,735,OverSpeeding,2019
+Uttarakhand,983,591,932,OverSpeeding,2019
+Uttar Pradesh,15934,8398,10307,OverSpeeding,2019
+West Bengal,3862,2050,3903,OverSpeeding,2019
+A & N Islands,40,3,38,OverSpeeding,2019
+Chandigarh,282,99,259,OverSpeeding,2019
+D & N Haveli,67,49,105,OverSpeeding,2019
+Daman & Diu,61,27,66,OverSpeeding,2019
+Delhi,2448,713,2093,OverSpeeding,2019
+Lakshadweep,0,0,0,OverSpeeding,2019
+Puducherry,908,121,1018,OverSpeeding,2019
+Andhra Pradesh,127,43,144,Drunken Driving,2019
+Arunachal Pradesh,46,27,70,Drunken Driving,2019
+Assam,279,74,306,Drunken Driving,2019
+Bihar,0,0,0,Drunken Driving,2019
+Chhattisgarh,134,34,112,Drunken Driving,2019
+Goa,6,1,0,Drunken Driving,2019
+Gujarat,47,17,34,Drunken Driving,2019
+Haryana,299,132,280,Drunken Driving,2019
+Himachal Pradesh,75,24,106,Drunken Driving,2019
+Jammu & Kashmir,25,5,44,Drunken Driving,2019
+Jharkhand,686,578,382,Drunken Driving,2019
+Karnataka,132,37,166,Drunken Driving,2019
+Kerala,104,20,103,Drunken Driving,2019
+Madhya Pradesh,1030,241,1039,Drunken Driving,2019
+Maharashtra,258,53,280,Drunken Driving,2019
+Manipur,81,12,146,Drunken Driving,2019
+Meghalaya,23,4,15,Drunken Driving,2019
+Mizoram,17,12,10,Drunken Driving,2019
+Nagaland,132,7,89,Drunken Driving,2019
+Orissa,1068,507,998,Drunken Driving,2019
+Punjab,1290,889,1059,Drunken Driving,2019
+Rajasthan,262,83,313,Drunken Driving,2019
+Sikkim,19,7,19,Drunken Driving,2019
+Tamil Nadu,1047,157,1246,Drunken Driving,2019
+Telangana,246,68,215,Drunken Driving,2019
+Tripura,19,3,29,Drunken Driving,2019
+Uttarakhand,25,17,24,Drunken Driving,2019
+Uttar Pradesh,4496,2224,3070,Drunken Driving,2019
+West Bengal,8,3,6,Drunken Driving,2019
+A & N Islands,41,1,36,Drunken Driving,2019
+Chandigarh,8,0,8,Drunken Driving,2019
+D & N Haveli,1,0,0,Drunken Driving,2019
+Daman & Diu,4,0,4,Drunken Driving,2019
+Delhi,215,45,202,Drunken Driving,2019
+Lakshadweep,0,0,0,Drunken Driving,2019
+Puducherry,6,0,9,Drunken Driving,2019
+Andhra Pradesh,509,155,638,Driving On wrong side,2019
+Arunachal Pradesh,57,28,77,Driving On wrong side,2019
+Assam,929,363,625,Driving On wrong side,2019
+Bihar,1465,1034,1086,Driving On wrong side,2019
+Chhattisgarh,760,197,786,Driving On wrong side,2019
+Goa,100,19,122,Driving On wrong side,2019
+Gujarat,607,225,712,Driving On wrong side,2019
+Haryana,959,418,1022,Driving On wrong side,2019
+Himachal Pradesh,715,341,1531,Driving On wrong side,2019
+Jammu & Kashmir,72,11,87,Driving On wrong side,2019
+Jharkhand,343,234,279,Driving On wrong side,2019
+Karnataka,1131,248,1520,Driving On wrong side,2019
+Kerala,1449,131,1791,Driving On wrong side,2019
+Madhya Pradesh,2814,555,2952,Driving On wrong side,2019
+Maharashtra,553,154,571,Driving On wrong side,2019
+Manipur,23,7,33,Driving On wrong side,2019
+Meghalaya,26,13,12,Driving On wrong side,2019
+Mizoram,5,5,2,Driving On wrong side,2019
+Nagaland,82,7,37,Driving On wrong side,2019
+Orissa,1040,445,1235,Driving On wrong side,2019
+Punjab,1455,987,984,Driving On wrong side,2019
+Rajasthan,1130,478,1139,Driving On wrong side,2019
+Sikkim,19,3,61,Driving On wrong side,2019
+Tamil Nadu,2325,402,2637,Driving On wrong side,2019
+Telangana,119,23,140,Driving On wrong side,2019
+Tripura,28,15,37,Driving On wrong side,2019
+Uttarakhand,102,52,107,Driving On wrong side,2019
+Uttar Pradesh,4988,2517,3606,Driving On wrong side,2019
+West Bengal,114,44,158,Driving On wrong side,2019
+A & N Islands,6,0,8,Driving On wrong side,2019
+Chandigarh,3,1,2,Driving On wrong side,2019
+D & N Haveli,0,0,0,Driving On wrong side,2019
+Daman & Diu,2,1,1,Driving On wrong side,2019
+Delhi,369,69,459,Driving On wrong side,2019
+Lakshadweep,0,0,0,Driving On wrong side,2019
+Puducherry,132,19,171,Driving On wrong side,2019
+Andhra Pradesh,37,22,24,Jumping red Lights,2019
+Arunachal Pradesh,0,0,0,Jumping red Lights,2019
+Assam,136,29,128,Jumping red Lights,2019
+Bihar,0,0,0,Jumping red Lights,2019
+Chhattisgarh,22,2,18,Jumping red Lights,2019
+Goa,0,0,0,Jumping red Lights,2019
+Gujarat,8,4,4,Jumping red Lights,2019
+Haryana,257,142,397,Jumping red Lights,2019
+Himachal Pradesh,0,0,0,Jumping red Lights,2019
+Jammu & Kashmir,0,0,0,Jumping red Lights,2019
+Jharkhand,74,33,107,Jumping red Lights,2019
+Karnataka,59,7,60,Jumping red Lights,2019
+Kerala,70,5,86,Jumping red Lights,2019
+Madhya Pradesh,113,12,118,Jumping red Lights,2019
+Maharashtra,48,4,46,Jumping red Lights,2019
+Manipur,8,0,15,Jumping red Lights,2019
+Meghalaya,11,7,3,Jumping red Lights,2019
+Mizoram,0,0,0,Jumping red Lights,2019
+Nagaland,0,0,0,Jumping red Lights,2019
+Orissa,97,32,100,Jumping red Lights,2019
+Punjab,1079,846,746,Jumping red Lights,2019
+Rajasthan,32,13,35,Jumping red Lights,2019
+Sikkim,0,0,0,Jumping red Lights,2019
+Tamil Nadu,1068,226,1054,Jumping red Lights,2019
+Telangana,32,2,19,Jumping red Lights,2019
+Tripura,0,0,0,Jumping red Lights,2019
+Uttarakhand,0,0,0,Jumping red Lights,2019
+Uttar Pradesh,874,297,680,Jumping red Lights,2019
+West Bengal,18,10,15,Jumping red Lights,2019
+A & N Islands,0,0,0,Jumping red Lights,2019
+Chandigarh,12,4,6,Jumping red Lights,2019
+D & N Haveli,0,0,0,Jumping red Lights,2019
+Daman & Diu,0,0,0,Jumping red Lights,2019
+Delhi,371,100,320,Jumping red Lights,2019
+Lakshadweep,0,0,0,Jumping red Lights,2019
+Puducherry,17,0,25,Jumping red Lights,2019
+Andhra Pradesh,96,29,134,Use of Mobile Phones,2019
+Arunachal Pradesh,43,23,67,Use of Mobile Phones,2019
+Assam,99,40,99,Use of Mobile Phones,2019
+Bihar,182,149,130,Use of Mobile Phones,2019
+Chhattisgarh,24,9,10,Use of Mobile Phones,2019
+Goa,0,0,0,Use of Mobile Phones,2019
+Gujarat,122,40,118,Use of Mobile Phones,2019
+Haryana,539,243,418,Use of Mobile Phones,2019
+Himachal Pradesh,18,3,27,Use of Mobile Phones,2019
+Jammu & Kashmir,0,0,0,Use of Mobile Phones,2019
+Jharkhand,128,80,107,Use of Mobile Phones,2019
+Karnataka,31,2,50,Use of Mobile Phones,2019
+Kerala,27,0,28,Use of Mobile Phones,2019
+Madhya Pradesh,896,181,972,Use of Mobile Phones,2019
+Maharashtra,100,13,100,Use of Mobile Phones,2019
+Manipur,37,2,66,Use of Mobile Phones,2019
+Meghalaya,19,10,8,Use of Mobile Phones,2019
+Mizoram,0,0,0,Use of Mobile Phones,2019
+Nagaland,13,0,7,Use of Mobile Phones,2019
+Orissa,492,205,561,Use of Mobile Phones,2019
+Punjab,1296,881,194,Use of Mobile Phones,2019
+Rajasthan,158,63,217,Use of Mobile Phones,2019
+Sikkim,0,0,0,Use of Mobile Phones,2019
+Tamil Nadu,1047,165,1233,Use of Mobile Phones,2019
+Telangana,7,1,6,Use of Mobile Phones,2019
+Tripura,0,0,0,Use of Mobile Phones,2019
+Uttarakhand,51,50,98,Use of Mobile Phones,2019
+Uttar Pradesh,4882,2699,3305,Use of Mobile Phones,2019
+West Bengal,14,4,13,Use of Mobile Phones,2019
+A & N Islands,0,0,0,Use of Mobile Phones,2019
+Chandigarh,0,0,0,Use of Mobile Phones,2019
+D & N Haveli,0,0,0,Use of Mobile Phones,2019
+Daman & Diu,2,0,3,Use of Mobile Phones,2019
+Delhi,199,53,173,Use of Mobile Phones,2019
+Lakshadweep,0,0,0,Use of Mobile Phones,2019
+Puducherry,0,0,0,Use of Mobile Phones,2019
+Andhra Pradesh,14716,5227,15192,OverSpeeding,2020
+Arunachal Pradesh,64,42,94,OverSpeeding,2020
+Assam,4586,1899,1696,OverSpeeding,2020
+Bihar,3298,2713,2670,OverSpeeding,2020
+Chhattisgarh,9996,4045,8868,OverSpeeding,2020
+Goa,1845,181,766,OverSpeeding,2020
+Gujarat,12449,5806,11122,OverSpeeding,2020
+Haryana,6251,3011,5157,OverSpeeding,2020
+Himachal Pradesh,1383,558,1959,OverSpeeding,2020
+Jammu & Kashmir,4821,727,5804,OverSpeeding,2020
+Jharkhand,3136,2282,2283,OverSpeeding,2020
+Karnataka,28078,8055,32029,OverSpeeding,2020
+Kerala,18100,1787,19998,OverSpeeding,2020
+Madhya Pradesh,36997,9224,37945,OverSpeeding,2020
+Maharashtra,19419,9152,15387,OverSpeeding,2020
+Manipur,265,60,399,OverSpeeding,2020
+Meghalaya,113,77,113,OverSpeeding,2020
+Mizoram,22,14,31,OverSpeeding,2020
+Nagaland,156,20,66,OverSpeeding,2020
+Orissa,7064,3483,6333,OverSpeeding,2020
+Punjab,2319,1805,1225,OverSpeeding,2020
+Rajasthan,16131,7866,14041,OverSpeeding,2020
+Sikkim,62,18,98,OverSpeeding,2020
+Tamil Nadu,38354,6844,42081,OverSpeeding,2020
+Telangana,16443,6109,16077,OverSpeeding,2020
+Tripura,429,181,426,OverSpeeding,2020
+Uttarakhand,710,450,523,OverSpeeding,2020
+Uttar Pradesh,12875,7356,8197,OverSpeeding,2020
+West Bengal,3017,1530,2974,OverSpeeding,2020
+A & N Islands,26,2,31,OverSpeeding,2020
+Chandigarh,147,50,139,OverSpeeding,2020
+D & N Haveli,84,58,104,OverSpeeding,2020
+Daman & Diu,,,0,OverSpeeding,2020
+Delhi,1260,488,986,OverSpeeding,2020
+Lakshadweep,1,0,1,OverSpeeding,2020
+Puducherry,13,27,848,OverSpeeding,2020
+Andhra Pradesh,77,29,75,Drunken Driving,2020
+Arunachal Pradesh,18,9,24,Drunken Driving,2020
+Assam,468,252,964,Drunken Driving,2020
+Bihar,28,10,29,Drunken Driving,2020
+Chhattisgarh,67,27,200,Drunken Driving,2020
+Goa,8,0,6,Drunken Driving,2020
+Gujarat,57,12,51,Drunken Driving,2020
+Haryana,138,38,72,Drunken Driving,2020
+Himachal Pradesh,76,20,115,Drunken Driving,2020
+Jammu & Kashmir,0,0,0,Drunken Driving,2020
+Jharkhand,430,256,229,Drunken Driving,2020
+Karnataka,73,21,55,Drunken Driving,2020
+Kerala,77,17,85,Drunken Driving,2020
+Madhya Pradesh,989,237,1136,Drunken Driving,2020
+Maharashtra,181,45,172,Drunken Driving,2020
+Manipur,27,7,54,Drunken Driving,2020
+Meghalaya,18,12,6,Drunken Driving,2020
+Mizoram,18,19,17,Drunken Driving,2020
+Nagaland,107,7,35,Drunken Driving,2020
+Orissa,648,298,536,Drunken Driving,2020
+Punjab,537,349,354,Drunken Driving,2020
+Rajasthan,161,63,138,Drunken Driving,2020
+Sikkim,28,6,53,Drunken Driving,2020
+Tamil Nadu,696,70,776,Drunken Driving,2020
+Telangana,794,203,796,Drunken Driving,2020
+Tripura,3,0,6,Drunken Driving,2020
+Uttarakhand,14,6,15,Drunken Driving,2020
+Uttar Pradesh,2410,1256,1657,Drunken Driving,2020
+West Bengal,20,10,14,Drunken Driving,2020
+A & N Islands,33,4,24,Drunken Driving,2020
+Chandigarh,5,1,3,Drunken Driving,2020
+D & N Haveli,4,2,3,Drunken Driving,2020
+Daman & Diu,0,0,0,Drunken Driving,2020
+Delhi,143,36,139,Drunken Driving,2020
+Lakshadweep,0,0,0,Drunken Driving,2020
+Puducherry,2,0,6,Drunken Driving,2020
+Andhra Pradesh,413,137,461,Driving On wrong side,2020
+Arunachal Pradesh,23,7,23,Driving On wrong side,2020
+Assam,544,152,887,Driving On wrong side,2020
+Bihar,740,550,546,Driving On wrong side,2020
+Chhattisgarh,497,109,511,Driving On wrong side,2020
+Goa,229,18,70,Driving On wrong side,2020
+Gujarat,543,208,545,Driving On wrong side,2020
+Haryana,515,176,450,Driving On wrong side,2020
+Himachal Pradesh,462,172,686,Driving On wrong side,2020
+Jammu & Kashmir,30,1,59,Driving On wrong side,2020
+Jharkhand,173,120,150,Driving On wrong side,2020
+Karnataka,712,113,900,Driving On wrong side,2020
+Kerala,1310,88,1520,Driving On wrong side,2020
+Madhya Pradesh,2334,535,2484,Driving On wrong side,2020
+Maharashtra,1113,489,905,Driving On wrong side,2020
+Manipur,28,9,40,Driving On wrong side,2020
+Meghalaya,19,14,17,Driving On wrong side,2020
+Mizoram,5,5,13,Driving On wrong side,2020
+Nagaland,63,5,37,Driving On wrong side,2020
+Orissa,749,296,803,Driving On wrong side,2020
+Punjab,990,714,610,Driving On wrong side,2020
+Rajasthan,1205,533,1161,Driving On wrong side,2020
+Sikkim,33,13,45,Driving On wrong side,2020
+Tamil Nadu,2467,373,2887,Driving On wrong side,2020
+Telangana,160,40,147,Driving On wrong side,2020
+Tripura,34,11,38,Driving On wrong side,2020
+Uttarakhand,81,48,66,Driving On wrong side,2020
+Uttar Pradesh,4253,2270,2905,Driving On wrong side,2020
+West Bengal,83,44,99,Driving On wrong side,2020
+A & N Islands,4,0,5,Driving On wrong side,2020
+Chandigarh,3,1,4,Driving On wrong side,2020
+D & N Haveli,4,0,7,Driving On wrong side,2020
+Daman & Diu,0,0,0,Driving On wrong side,2020
+Delhi,287,60,274,Driving On wrong side,2020
+Lakshadweep,0,0,0,Driving On wrong side,2020
+Puducherry,122,21,126,Driving On wrong side,2020
+Andhra Pradesh,17,2,0,Jumping red Lights,2020
+Arunachal Pradesh,0,0,0,Jumping red Lights,2020
+Assam,157,36,405,Jumping red Lights,2020
+Bihar,0,0,0,Jumping red Lights,2020
+Chhattisgarh,67,4,44,Jumping red Lights,2020
+Goa,5,1,1,Jumping red Lights,2020
+Gujarat,28,12,17,Jumping red Lights,2020
+Haryana,34,11,23,Jumping red Lights,2020
+Himachal Pradesh,0,0,0,Jumping red Lights,2020
+Jammu & Kashmir,0,0,31,Jumping red Lights,2020
+Jharkhand,69,42,49,Jumping red Lights,2020
+Karnataka,33,3,30,Jumping red Lights,2020
+Kerala,26,2,39,Jumping red Lights,2020
+Madhya Pradesh,375,65,366,Jumping red Lights,2020
+Maharashtra,2,0,2,Jumping red Lights,2020
+Manipur,0,0,0,Jumping red Lights,2020
+Meghalaya,0,0,0,Jumping red Lights,2020
+Mizoram,0,0,0,Jumping red Lights,2020
+Nagaland,0,0,0,Jumping red Lights,2020
+Orissa,56,15,43,Jumping red Lights,2020
+Punjab,266,186,201,Jumping red Lights,2020
+Rajasthan,21,7,15,Jumping red Lights,2020
+Sikkim,0,0,0,Jumping red Lights,2020
+Tamil Nadu,442,56,576,Jumping red Lights,2020
+Telangana,91,12,88,Jumping red Lights,2020
+Tripura,0,0,0,Jumping red Lights,2020
+Uttarakhand,0,0,0,Jumping red Lights,2020
+Uttar Pradesh,761,330,505,Jumping red Lights,2020
+West Bengal,11,1,11,Jumping red Lights,2020
+A & N Islands,0,0,0,Jumping red Lights,2020
+Chandigarh,4,1,2,Jumping red Lights,2020
+D & N Haveli,0,0,0,Jumping red Lights,2020
+Daman & Diu,,,0,Jumping red Lights,2020
+Delhi,252,78,228,Jumping red Lights,2020
+Lakshadweep,0,0,0,Jumping red Lights,2020
+Puducherry,0,2,0,Jumping red Lights,2020
+Andhra Pradesh,143,38,188,Use of Mobile Phones,2020
+Arunachal Pradesh,3,1,5,Use of Mobile Phones,2020
+Assam,198,51,590,Use of Mobile Phones,2020
+Bihar,163,89,174,Use of Mobile Phones,2020
+Chhattisgarh,21,10,18,Use of Mobile Phones,2020
+Goa,0,0,0,Use of Mobile Phones,2020
+Gujarat,79,11,59,Use of Mobile Phones,2020
+Haryana,421,166,306,Use of Mobile Phones,2020
+Himachal Pradesh,25,8,18,Use of Mobile Phones,2020
+Jammu & Kashmir,9,0,0,Use of Mobile Phones,2020
+Jharkhand,96,60,69,Use of Mobile Phones,2020
+Karnataka,38,4,64,Use of Mobile Phones,2020
+Kerala,23,2,25,Use of Mobile Phones,2020
+Madhya Pradesh,684,143,800,Use of Mobile Phones,2020
+Maharashtra,10,3,8,Use of Mobile Phones,2020
+Manipur,2,0,5,Use of Mobile Phones,2020
+Meghalaya,4,1,3,Use of Mobile Phones,2020
+Mizoram,2,1,2,Use of Mobile Phones,2020
+Nagaland,0,0,0,Use of Mobile Phones,2020
+Orissa,297,120,301,Use of Mobile Phones,2020
+Punjab,407,295,159,Use of Mobile Phones,2020
+Rajasthan,68,45,51,Use of Mobile Phones,2020
+Sikkim,0,0,0,Use of Mobile Phones,2020
+Tamil Nadu,717,83,900,Use of Mobile Phones,2020
+Telangana,22,4,23,Use of Mobile Phones,2020
+Tripura,0,0,0,Use of Mobile Phones,2020
+Uttarakhand,0,0,0,Use of Mobile Phones,2020
+Uttar Pradesh,3232,1758,2131,Use of Mobile Phones,2020
+West Bengal,3,1,2,Use of Mobile Phones,2020
+A & N Islands,0,0,0,Use of Mobile Phones,2020
+Chandigarh,0,0,0,Use of Mobile Phones,2020
+D & N Haveli,0,0,0,Use of Mobile Phones,2020
+Daman & Diu,0,0,0,Use of Mobile Phones,2020
+Delhi,86,23,74,Use of Mobile Phones,2020
+Lakshadweep,0,0,0,Use of Mobile Phones,2020
+Puducherry,0,0,5,Use of Mobile Phones,2020
